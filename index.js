@@ -271,8 +271,10 @@ const initProcess = async () => {
   // console.log(vehicles, "vehicles");
 };
 
-// const url = `mongodb+srv://taxi:LP1jSgxQjQXP3xYi@cluster0.k9bvbd7.mongodb.net/`;
-const url=``;
+ let url=``;
+// uncomment below code while testing
+// url = `mongodb+srv://taxi:LP1jSgxQjQXP3xYi@cluster0.k9bvbd7.mongodb.net/`;
+
 
 const connectionParams = {
   useNewUrlParser: true,
