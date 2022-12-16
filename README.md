@@ -1,6 +1,6 @@
 # ECS789P_Group_Project
 
-#Setup
+### Setup
 As we assume, you have node.js and npm installed in your system
  - clone this repo
  - npm install ( to install dependencies)
