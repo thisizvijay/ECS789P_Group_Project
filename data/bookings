@@ -1,0 +1,8041 @@
+[{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd352"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28f"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27b"
+  },
+  "pickup_location": {
+    "building_number": 5,
+    "street": "Izaiah Coves",
+    "city": "London",
+    "pincode": "ZCMXQ"
+  },
+  "drop_location": {
+    "building_number": 9,
+    "street": "Schinner Shores",
+    "city": "London",
+    "pincode": "MDNDI"
+  },
+  "no_of_passengers": 2,
+  "status": "completed",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd353"
+    }
+  },
+  "service_fees": {
+    "amount": 94,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd354"
+    }
+  },
+  "tax_fees": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd355"
+    }
+  },
+  "total_amount": {
+    "amount": 109,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd356"
+    }
+  },
+  "trip_distance": 19,
+  "waiting_time_in_minutes": 19,
+  "total_trip_time_in_minutes": 44,
+  "on_peak": false,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-11-16T16:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd357"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd291"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27d"
+  },
+  "pickup_location": {
+    "building_number": 7,
+    "street": "Dare Streets",
+    "city": "London",
+    "pincode": "MCHST"
+  },
+  "drop_location": {
+    "building_number": 7,
+    "street": "Stracke Cape",
+    "city": "London",
+    "pincode": "X8B57"
+  },
+  "no_of_passengers": 3,
+  "status": "unfullfilled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd358"
+    }
+  },
+  "service_fees": {
+    "amount": 72,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd359"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd35a"
+    }
+  },
+  "total_amount": {
+    "amount": 84,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd35b"
+    }
+  },
+  "trip_distance": 18,
+  "waiting_time_in_minutes": 10,
+  "total_trip_time_in_minutes": 42,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-11-16T00:19:25Z"
+  },
+  "driver_rating": 2,
+  "operator_rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd34d"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28e"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27a"
+  },
+  "pickup_location": {
+    "building_number": 9,
+    "street": "Maye Ports",
+    "city": "London",
+    "pincode": "CT9OC"
+  },
+  "drop_location": {
+    "building_number": 4,
+    "street": "Cremin Common",
+    "city": "London",
+    "pincode": "5HGPB"
+  },
+  "no_of_passengers": 2,
+  "status": "pending",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd34e"
+    }
+  },
+  "service_fees": {
+    "amount": 79,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd34f"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd350"
+    }
+  },
+  "total_amount": {
+    "amount": 91,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd351"
+    }
+  },
+  "trip_distance": 16,
+  "waiting_time_in_minutes": 14,
+  "total_trip_time_in_minutes": 54,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-11-16T00:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd366"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd290"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27c"
+  },
+  "pickup_location": {
+    "building_number": 6,
+    "street": "Botsford Fort",
+    "city": "London",
+    "pincode": "J9VLM"
+  },
+  "drop_location": {
+    "building_number": 10,
+    "street": "Gwen Crest",
+    "city": "London",
+    "pincode": "7E0JQ"
+  },
+  "no_of_passengers": 2,
+  "status": "unfullfilled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd367"
+    }
+  },
+  "service_fees": {
+    "amount": 86,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd368"
+    }
+  },
+  "tax_fees": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd369"
+    }
+  },
+  "total_amount": {
+    "amount": 99,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd36a"
+    }
+  },
+  "trip_distance": 14,
+  "waiting_time_in_minutes": 17,
+  "total_trip_time_in_minutes": 56,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-11-16T16:19:25Z"
+  },
+  "driver_rating": 1,
+  "operator_rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd361"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd326"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd292"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27e"
+  },
+  "pickup_location": {
+    "building_number": 3,
+    "street": "Langosh Falls",
+    "city": "London",
+    "pincode": "30ML4"
+  },
+  "drop_location": {
+    "building_number": 5,
+    "street": "Ted Rapids",
+    "city": "London",
+    "pincode": "BSMXL"
+  },
+  "no_of_passengers": 3,
+  "status": "cancelled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd362"
+    }
+  },
+  "service_fees": {
+    "amount": 59,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd363"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd364"
+    }
+  },
+  "total_amount": {
+    "amount": 75,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd365"
+    }
+  },
+  "trip_distance": 18,
+  "waiting_time_in_minutes": 15,
+  "total_trip_time_in_minutes": 52,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-11-16T05:19:25Z"
+  },
+  "driver_rating": 4,
+  "operator_rating": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd375"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28e"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27a"
+  },
+  "pickup_location": {
+    "building_number": 6,
+    "street": "Bode Groves",
+    "city": "London",
+    "pincode": "0GB97"
+  },
+  "drop_location": {
+    "building_number": 2,
+    "street": "Cali Bridge",
+    "city": "London",
+    "pincode": "HOKCM"
+  },
+  "no_of_passengers": 3,
+  "status": "pending",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd376"
+    }
+  },
+  "service_fees": {
+    "amount": 70,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd377"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd378"
+    }
+  },
+  "total_amount": {
+    "amount": 82,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd379"
+    }
+  },
+  "trip_distance": 19,
+  "waiting_time_in_minutes": 20,
+  "total_trip_time_in_minutes": 55,
+  "on_peak": false,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-11-16T00:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd36b"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd294"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd280"
+  },
+  "pickup_location": {
+    "building_number": 7,
+    "street": "Daugherty Views",
+    "city": "London",
+    "pincode": "BC334"
+  },
+  "drop_location": {
+    "building_number": 5,
+    "street": "Devin Heights",
+    "city": "London",
+    "pincode": "25WS4"
+  },
+  "no_of_passengers": 2,
+  "status": "pending",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd36c"
+    }
+  },
+  "service_fees": {
+    "amount": 93,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd36d"
+    }
+  },
+  "tax_fees": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd36e"
+    }
+  },
+  "total_amount": {
+    "amount": 106,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd36f"
+    }
+  },
+  "trip_distance": 19,
+  "waiting_time_in_minutes": 12,
+  "total_trip_time_in_minutes": 52,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-11-16T15:19:25Z"
+  },
+  "driver_rating": 1,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd37f"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd291"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27d"
+  },
+  "pickup_location": {
+    "building_number": 3,
+    "street": "Trevor Center",
+    "city": "London",
+    "pincode": "TI1RP"
+  },
+  "drop_location": {
+    "building_number": 5,
+    "street": "Schulist Plain",
+    "city": "London",
+    "pincode": "5T5EL"
+  },
+  "no_of_passengers": 2,
+  "status": "completed",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd380"
+    }
+  },
+  "service_fees": {
+    "amount": 80,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd381"
+    }
+  },
+  "tax_fees": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd382"
+    }
+  },
+  "total_amount": {
+    "amount": 98,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd383"
+    }
+  },
+  "trip_distance": 13,
+  "waiting_time_in_minutes": 20,
+  "total_trip_time_in_minutes": 38,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-11-16T07:19:25Z"
+  },
+  "driver_rating": 4,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd38e"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd290"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27c"
+  },
+  "pickup_location": {
+    "building_number": 2,
+    "street": "Jaunita Port",
+    "city": "London",
+    "pincode": "G44UN"
+  },
+  "drop_location": {
+    "building_number": 4,
+    "street": "Horace Fords",
+    "city": "London",
+    "pincode": "HHBFN"
+  },
+  "no_of_passengers": 2,
+  "status": "pending",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd38f"
+    }
+  },
+  "service_fees": {
+    "amount": 79,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd390"
+    }
+  },
+  "tax_fees": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd391"
+    }
+  },
+  "total_amount": {
+    "amount": 95,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd392"
+    }
+  },
+  "trip_distance": 13,
+  "waiting_time_in_minutes": 17,
+  "total_trip_time_in_minutes": 59,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-11-16T14:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd37a"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28f"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27b"
+  },
+  "pickup_location": {
+    "building_number": 5,
+    "street": "Bergnaum Squares",
+    "city": "London",
+    "pincode": "NGZDB"
+  },
+  "drop_location": {
+    "building_number": 7,
+    "street": "Spinka Circle",
+    "city": "London",
+    "pincode": "43C3K"
+  },
+  "no_of_passengers": 3,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd37b"
+    }
+  },
+  "service_fees": {
+    "amount": 81,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd37c"
+    }
+  },
+  "tax_fees": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd37d"
+    }
+  },
+  "total_amount": {
+    "amount": 94,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd37e"
+    }
+  },
+  "trip_distance": 14,
+  "waiting_time_in_minutes": 20,
+  "total_trip_time_in_minutes": 38,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-11-16T09:19:25Z"
+  },
+  "driver_rating": 4,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd39d"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28e"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27a"
+  },
+  "pickup_location": {
+    "building_number": 5,
+    "street": "Fadel Village",
+    "city": "London",
+    "pincode": "DKN80"
+  },
+  "drop_location": {
+    "building_number": 6,
+    "street": "Dach Mall",
+    "city": "London",
+    "pincode": "V88ER"
+  },
+  "no_of_passengers": 3,
+  "status": "unfullfilled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd39e"
+    }
+  },
+  "service_fees": {
+    "amount": 86,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd39f"
+    }
+  },
+  "tax_fees": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3a0"
+    }
+  },
+  "total_amount": {
+    "amount": 96,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3a1"
+    }
+  },
+  "trip_distance": 10,
+  "waiting_time_in_minutes": 15,
+  "total_trip_time_in_minutes": 44,
+  "on_peak": false,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-11-16T19:19:25Z"
+  },
+  "driver_rating": 2,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd384"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd293"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27f"
+  },
+  "pickup_location": {
+    "building_number": 5,
+    "street": "Mante Ville",
+    "city": "London",
+    "pincode": "TZ5JN"
+  },
+  "drop_location": {
+    "building_number": 1,
+    "street": "Rosalind Flat",
+    "city": "London",
+    "pincode": "ZLR34"
+  },
+  "no_of_passengers": 3,
+  "status": "pending",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd385"
+    }
+  },
+  "service_fees": {
+    "amount": 57,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd386"
+    }
+  },
+  "tax_fees": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd387"
+    }
+  },
+  "total_amount": {
+    "amount": 73,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd388"
+    }
+  },
+  "trip_distance": 14,
+  "waiting_time_in_minutes": 11,
+  "total_trip_time_in_minutes": 32,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-11-16T00:19:25Z"
+  },
+  "driver_rating": 1,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd3a2"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28f"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27b"
+  },
+  "pickup_location": {
+    "building_number": 5,
+    "street": "Anahi Ranch",
+    "city": "London",
+    "pincode": "QFFJU"
+  },
+  "drop_location": {
+    "building_number": 10,
+    "street": "Ramona Knolls",
+    "city": "London",
+    "pincode": "QCDOM"
+  },
+  "no_of_passengers": 2,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3a3"
+    }
+  },
+  "service_fees": {
+    "amount": 68,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3a4"
+    }
+  },
+  "tax_fees": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3a5"
+    }
+  },
+  "total_amount": {
+    "amount": 85,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3a6"
+    }
+  },
+  "trip_distance": 11,
+  "waiting_time_in_minutes": 12,
+  "total_trip_time_in_minutes": 49,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-11-16T19:19:25Z"
+  },
+  "driver_rating": 2,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd3ac"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd293"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27f"
+  },
+  "pickup_location": {
+    "building_number": 9,
+    "street": "Schneider Ports",
+    "city": "London",
+    "pincode": "ZQ83N"
+  },
+  "drop_location": {
+    "building_number": 5,
+    "street": "Thiel Street",
+    "city": "London",
+    "pincode": "0QBU2"
+  },
+  "no_of_passengers": 2,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3ad"
+    }
+  },
+  "service_fees": {
+    "amount": 86,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3ae"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3af"
+    }
+  },
+  "total_amount": {
+    "amount": 99,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3b0"
+    }
+  },
+  "trip_distance": 13,
+  "waiting_time_in_minutes": 17,
+  "total_trip_time_in_minutes": 36,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-11-16T04:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd35c"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd293"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27f"
+  },
+  "pickup_location": {
+    "building_number": 9,
+    "street": "Dane Loop",
+    "city": "London",
+    "pincode": "VPG5E"
+  },
+  "drop_location": {
+    "building_number": 3,
+    "street": "Estefania Club",
+    "city": "London",
+    "pincode": "COR3L"
+  },
+  "no_of_passengers": 3,
+  "status": "cancelled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd35d"
+    }
+  },
+  "service_fees": {
+    "amount": 58,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd35e"
+    }
+  },
+  "tax_fees": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd35f"
+    }
+  },
+  "total_amount": {
+    "amount": 70,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd360"
+    }
+  },
+  "trip_distance": 16,
+  "waiting_time_in_minutes": 19,
+  "total_trip_time_in_minutes": 44,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-11-16T20:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd389"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd326"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd292"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27e"
+  },
+  "pickup_location": {
+    "building_number": 3,
+    "street": "Amely Ferry",
+    "city": "London",
+    "pincode": "78TVW"
+  },
+  "drop_location": {
+    "building_number": 10,
+    "street": "Bauch Turnpike",
+    "city": "London",
+    "pincode": "LGL80"
+  },
+  "no_of_passengers": 3,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd38a"
+    }
+  },
+  "service_fees": {
+    "amount": 51,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd38b"
+    }
+  },
+  "tax_fees": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd38c"
+    }
+  },
+  "total_amount": {
+    "amount": 67,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd38d"
+    }
+  },
+  "trip_distance": 15,
+  "waiting_time_in_minutes": 17,
+  "total_trip_time_in_minutes": 32,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-11-16T01:19:25Z"
+  },
+  "driver_rating": 2,
+  "operator_rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd3a7"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd291"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27d"
+  },
+  "pickup_location": {
+    "building_number": 5,
+    "street": "Smith Estates",
+    "city": "London",
+    "pincode": "KKTGW"
+  },
+  "drop_location": {
+    "building_number": 1,
+    "street": "Jerry Dam",
+    "city": "London",
+    "pincode": "0PN7K"
+  },
+  "no_of_passengers": 2,
+  "status": "cancelled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3a8"
+    }
+  },
+  "service_fees": {
+    "amount": 84,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3a9"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3aa"
+    }
+  },
+  "total_amount": {
+    "amount": 100,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3ab"
+    }
+  },
+  "trip_distance": 13,
+  "waiting_time_in_minutes": 13,
+  "total_trip_time_in_minutes": 46,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-11-16T13:19:25Z"
+  },
+  "driver_rating": 4,
+  "operator_rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd3b1"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd326"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd292"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27e"
+  },
+  "pickup_location": {
+    "building_number": 4,
+    "street": "Shemar Drive",
+    "city": "London",
+    "pincode": "K4KYE"
+  },
+  "drop_location": {
+    "building_number": 6,
+    "street": "Reichel Corners",
+    "city": "London",
+    "pincode": "1XBGO"
+  },
+  "no_of_passengers": 3,
+  "status": "completed",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3b2"
+    }
+  },
+  "service_fees": {
+    "amount": 82,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3b3"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3b4"
+    }
+  },
+  "total_amount": {
+    "amount": 94,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3b5"
+    }
+  },
+  "trip_distance": 16,
+  "waiting_time_in_minutes": 16,
+  "total_trip_time_in_minutes": 59,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-11-16T13:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd370"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd297"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd283"
+  },
+  "pickup_location": {
+    "building_number": 1,
+    "street": "Aisha Divide",
+    "city": "London",
+    "pincode": "TSVDY"
+  },
+  "drop_location": {
+    "building_number": 4,
+    "street": "Myrtle Forges",
+    "city": "London",
+    "pincode": "YJ95P"
+  },
+  "no_of_passengers": 3,
+  "status": "unfullfilled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd371"
+    }
+  },
+  "service_fees": {
+    "amount": 67,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd372"
+    }
+  },
+  "tax_fees": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd373"
+    }
+  },
+  "total_amount": {
+    "amount": 82,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd374"
+    }
+  },
+  "trip_distance": 15,
+  "waiting_time_in_minutes": 10,
+  "total_trip_time_in_minutes": 53,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-11-16T10:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd3b6"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd290"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27c"
+  },
+  "pickup_location": {
+    "building_number": 7,
+    "street": "Keeling Terrace",
+    "city": "London",
+    "pincode": "3939Z"
+  },
+  "drop_location": {
+    "building_number": 10,
+    "street": "Lexie Brooks",
+    "city": "London",
+    "pincode": "T9GCS"
+  },
+  "no_of_passengers": 3,
+  "status": "unfullfilled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3b7"
+    }
+  },
+  "service_fees": {
+    "amount": 100,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3b8"
+    }
+  },
+  "tax_fees": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3b9"
+    }
+  },
+  "total_amount": {
+    "amount": 118,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3ba"
+    }
+  },
+  "trip_distance": 20,
+  "waiting_time_in_minutes": 18,
+  "total_trip_time_in_minutes": 39,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-11-16T23:19:25Z"
+  },
+  "driver_rating": 4,
+  "operator_rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd3bb"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd294"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd280"
+  },
+  "pickup_location": {
+    "building_number": 3,
+    "street": "Misael Freeway",
+    "city": "London",
+    "pincode": "FNGX3"
+  },
+  "drop_location": {
+    "building_number": 2,
+    "street": "Edmund Station",
+    "city": "London",
+    "pincode": "4HVQU"
+  },
+  "no_of_passengers": 3,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3bc"
+    }
+  },
+  "service_fees": {
+    "amount": 61,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3bd"
+    }
+  },
+  "tax_fees": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3be"
+    }
+  },
+  "total_amount": {
+    "amount": 74,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3bf"
+    }
+  },
+  "trip_distance": 15,
+  "waiting_time_in_minutes": 13,
+  "total_trip_time_in_minutes": 42,
+  "on_peak": false,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-11-16T07:19:25Z"
+  },
+  "driver_rating": 2,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd3c0"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd297"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd283"
+  },
+  "pickup_location": {
+    "building_number": 9,
+    "street": "Johns Knolls",
+    "city": "London",
+    "pincode": "I0JQY"
+  },
+  "drop_location": {
+    "building_number": 3,
+    "street": "Kris Points",
+    "city": "London",
+    "pincode": "GSULJ"
+  },
+  "no_of_passengers": 2,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3c1"
+    }
+  },
+  "service_fees": {
+    "amount": 56,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3c2"
+    }
+  },
+  "tax_fees": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3c3"
+    }
+  },
+  "total_amount": {
+    "amount": 73,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3c4"
+    }
+  },
+  "trip_distance": 18,
+  "waiting_time_in_minutes": 11,
+  "total_trip_time_in_minutes": 50,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-11-16T08:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd398"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd297"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd283"
+  },
+  "pickup_location": {
+    "building_number": 1,
+    "street": "Melody Station",
+    "city": "London",
+    "pincode": "MWP6K"
+  },
+  "drop_location": {
+    "building_number": 5,
+    "street": "Carter Coves",
+    "city": "London",
+    "pincode": "D9UOO"
+  },
+  "no_of_passengers": 3,
+  "status": "cancelled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd399"
+    }
+  },
+  "service_fees": {
+    "amount": 89,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd39a"
+    }
+  },
+  "tax_fees": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd39b"
+    }
+  },
+  "total_amount": {
+    "amount": 106,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd39c"
+    }
+  },
+  "trip_distance": 17,
+  "waiting_time_in_minutes": 15,
+  "total_trip_time_in_minutes": 38,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-11-16T19:19:25Z"
+  },
+  "driver_rating": 2,
+  "operator_rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd3c5"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28e"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27a"
+  },
+  "pickup_location": {
+    "building_number": 9,
+    "street": "Zieme Garden",
+    "city": "London",
+    "pincode": "VY4MM"
+  },
+  "drop_location": {
+    "building_number": 5,
+    "street": "Ullrich Mountains",
+    "city": "London",
+    "pincode": "IOVUG"
+  },
+  "no_of_passengers": 3,
+  "status": "unfullfilled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3c6"
+    }
+  },
+  "service_fees": {
+    "amount": 56,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3c7"
+    }
+  },
+  "tax_fees": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3c8"
+    }
+  },
+  "total_amount": {
+    "amount": 71,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3c9"
+    }
+  },
+  "trip_distance": 14,
+  "waiting_time_in_minutes": 15,
+  "total_trip_time_in_minutes": 42,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-11-16T12:19:25Z"
+  },
+  "driver_rating": 4,
+  "operator_rating": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd393"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd294"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd280"
+  },
+  "pickup_location": {
+    "building_number": 7,
+    "street": "Mariano Village",
+    "city": "London",
+    "pincode": "1ZDWY"
+  },
+  "drop_location": {
+    "building_number": 5,
+    "street": "Prohaska Ridge",
+    "city": "London",
+    "pincode": "QJJFI"
+  },
+  "no_of_passengers": 2,
+  "status": "completed",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd394"
+    }
+  },
+  "service_fees": {
+    "amount": 56,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd395"
+    }
+  },
+  "tax_fees": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd396"
+    }
+  },
+  "total_amount": {
+    "amount": 74,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd397"
+    }
+  },
+  "trip_distance": 18,
+  "waiting_time_in_minutes": 13,
+  "total_trip_time_in_minutes": 50,
+  "on_peak": false,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-11-16T14:19:25Z"
+  },
+  "driver_rating": 2,
+  "operator_rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd3d4"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd293"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27f"
+  },
+  "pickup_location": {
+    "building_number": 10,
+    "street": "Baumbach Plains",
+    "city": "London",
+    "pincode": "ECIK5"
+  },
+  "drop_location": {
+    "building_number": 6,
+    "street": "Davis Plain",
+    "city": "London",
+    "pincode": "1S90B"
+  },
+  "no_of_passengers": 2,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3d5"
+    }
+  },
+  "service_fees": {
+    "amount": 65,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3d6"
+    }
+  },
+  "tax_fees": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3d7"
+    }
+  },
+  "total_amount": {
+    "amount": 79,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3d8"
+    }
+  },
+  "trip_distance": 14,
+  "waiting_time_in_minutes": 12,
+  "total_trip_time_in_minutes": 53,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-11-16T11:19:25Z"
+  },
+  "driver_rating": 1,
+  "operator_rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd3d9"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd326"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd292"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27e"
+  },
+  "pickup_location": {
+    "building_number": 10,
+    "street": "O'Kon Inlet",
+    "city": "London",
+    "pincode": "8I0HJ"
+  },
+  "drop_location": {
+    "building_number": 4,
+    "street": "Ratke Centers",
+    "city": "London",
+    "pincode": "EUWKE"
+  },
+  "no_of_passengers": 2,
+  "status": "cancelled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3da"
+    }
+  },
+  "service_fees": {
+    "amount": 72,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3db"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3dc"
+    }
+  },
+  "total_amount": {
+    "amount": 85,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3dd"
+    }
+  },
+  "trip_distance": 13,
+  "waiting_time_in_minutes": 12,
+  "total_trip_time_in_minutes": 50,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-11-16T13:19:25Z"
+  },
+  "driver_rating": 4,
+  "operator_rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd3de"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd290"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27c"
+  },
+  "pickup_location": {
+    "building_number": 9,
+    "street": "Hodkiewicz Course",
+    "city": "London",
+    "pincode": "BE5CN"
+  },
+  "drop_location": {
+    "building_number": 10,
+    "street": "Shayne Mission",
+    "city": "London",
+    "pincode": "3VEIM"
+  },
+  "no_of_passengers": 3,
+  "status": "pending",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3df"
+    }
+  },
+  "service_fees": {
+    "amount": 65,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3e0"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3e1"
+    }
+  },
+  "total_amount": {
+    "amount": 77,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3e2"
+    }
+  },
+  "trip_distance": 14,
+  "waiting_time_in_minutes": 18,
+  "total_trip_time_in_minutes": 55,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-11-16T11:19:25Z"
+  },
+  "driver_rating": 1,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd3e8"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd297"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd283"
+  },
+  "pickup_location": {
+    "building_number": 4,
+    "street": "Brianne Ramp",
+    "city": "London",
+    "pincode": "S3GW8"
+  },
+  "drop_location": {
+    "building_number": 4,
+    "street": "Purdy Well",
+    "city": "London",
+    "pincode": "V3J73"
+  },
+  "no_of_passengers": 3,
+  "status": "cancelled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3e9"
+    }
+  },
+  "service_fees": {
+    "amount": 72,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3ea"
+    }
+  },
+  "tax_fees": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3eb"
+    }
+  },
+  "total_amount": {
+    "amount": 85,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3ec"
+    }
+  },
+  "trip_distance": 11,
+  "waiting_time_in_minutes": 14,
+  "total_trip_time_in_minutes": 30,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-11-16T22:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd3e3"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd294"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd280"
+  },
+  "pickup_location": {
+    "building_number": 8,
+    "street": "Loraine Union",
+    "city": "London",
+    "pincode": "6N5BZ"
+  },
+  "drop_location": {
+    "building_number": 5,
+    "street": "Eusebio Trail",
+    "city": "London",
+    "pincode": "JQ9CW"
+  },
+  "no_of_passengers": 2,
+  "status": "pending",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3e4"
+    }
+  },
+  "service_fees": {
+    "amount": 83,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3e5"
+    }
+  },
+  "tax_fees": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3e6"
+    }
+  },
+  "total_amount": {
+    "amount": 100,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3e7"
+    }
+  },
+  "trip_distance": 18,
+  "waiting_time_in_minutes": 20,
+  "total_trip_time_in_minutes": 38,
+  "on_peak": false,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-11-16T20:19:25Z"
+  },
+  "driver_rating": 1,
+  "operator_rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd3f2"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28f"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27b"
+  },
+  "pickup_location": {
+    "building_number": 8,
+    "street": "Lakin Freeway",
+    "city": "London",
+    "pincode": "XSG13"
+  },
+  "drop_location": {
+    "building_number": 1,
+    "street": "Botsford Pine",
+    "city": "London",
+    "pincode": "OPJWH"
+  },
+  "no_of_passengers": 2,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3f3"
+    }
+  },
+  "service_fees": {
+    "amount": 75,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3f4"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3f5"
+    }
+  },
+  "total_amount": {
+    "amount": 86,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3f6"
+    }
+  },
+  "trip_distance": 13,
+  "waiting_time_in_minutes": 15,
+  "total_trip_time_in_minutes": 44,
+  "on_peak": false,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-11-16T08:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd3ed"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28e"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27a"
+  },
+  "pickup_location": {
+    "building_number": 6,
+    "street": "Douglas Green",
+    "city": "London",
+    "pincode": "GT328"
+  },
+  "drop_location": {
+    "building_number": 7,
+    "street": "Boyle Fields",
+    "city": "London",
+    "pincode": "KYD0Q"
+  },
+  "no_of_passengers": 2,
+  "status": "unfullfilled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3ee"
+    }
+  },
+  "service_fees": {
+    "amount": 85,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3ef"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3f0"
+    }
+  },
+  "total_amount": {
+    "amount": 99,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3f1"
+    }
+  },
+  "trip_distance": 15,
+  "waiting_time_in_minutes": 11,
+  "total_trip_time_in_minutes": 50,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-11-16T17:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd3f7"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd291"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27d"
+  },
+  "pickup_location": {
+    "building_number": 3,
+    "street": "Litzy View",
+    "city": "London",
+    "pincode": "P0E9M"
+  },
+  "drop_location": {
+    "building_number": 5,
+    "street": "Savanna Knoll",
+    "city": "London",
+    "pincode": "Q732B"
+  },
+  "no_of_passengers": 2,
+  "status": "pending",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3f8"
+    }
+  },
+  "service_fees": {
+    "amount": 91,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3f9"
+    }
+  },
+  "tax_fees": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3fa"
+    }
+  },
+  "total_amount": {
+    "amount": 108,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3fb"
+    }
+  },
+  "trip_distance": 11,
+  "waiting_time_in_minutes": 11,
+  "total_trip_time_in_minutes": 47,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-11-16T13:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd3fc"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd293"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27f"
+  },
+  "pickup_location": {
+    "building_number": 3,
+    "street": "Robel Extensions",
+    "city": "London",
+    "pincode": "PI4BI"
+  },
+  "drop_location": {
+    "building_number": 10,
+    "street": "Borer Squares",
+    "city": "London",
+    "pincode": "QNZ75"
+  },
+  "no_of_passengers": 3,
+  "status": "completed",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3fd"
+    }
+  },
+  "service_fees": {
+    "amount": 58,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3fe"
+    }
+  },
+  "tax_fees": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3ff"
+    }
+  },
+  "total_amount": {
+    "amount": 75,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd400"
+    }
+  },
+  "trip_distance": 14,
+  "waiting_time_in_minutes": 19,
+  "total_trip_time_in_minutes": 59,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-11-16T13:19:25Z"
+  },
+  "driver_rating": 2,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd401"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd326"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd292"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27e"
+  },
+  "pickup_location": {
+    "building_number": 10,
+    "street": "Smitham Streets",
+    "city": "London",
+    "pincode": "53B39"
+  },
+  "drop_location": {
+    "building_number": 5,
+    "street": "Leffler Ridge",
+    "city": "London",
+    "pincode": "7S46X"
+  },
+  "no_of_passengers": 2,
+  "status": "cancelled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd402"
+    }
+  },
+  "service_fees": {
+    "amount": 67,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd403"
+    }
+  },
+  "tax_fees": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd404"
+    }
+  },
+  "total_amount": {
+    "amount": 85,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd405"
+    }
+  },
+  "trip_distance": 14,
+  "waiting_time_in_minutes": 13,
+  "total_trip_time_in_minutes": 42,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-11-16T03:19:25Z"
+  },
+  "driver_rating": 4,
+  "operator_rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd40b"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd294"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd280"
+  },
+  "pickup_location": {
+    "building_number": 8,
+    "street": "Jocelyn Ville",
+    "city": "London",
+    "pincode": "RIXKC"
+  },
+  "drop_location": {
+    "building_number": 7,
+    "street": "Bernardo Stream",
+    "city": "London",
+    "pincode": "3LMQF"
+  },
+  "no_of_passengers": 3,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd40c"
+    }
+  },
+  "service_fees": {
+    "amount": 80,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd40d"
+    }
+  },
+  "tax_fees": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd40e"
+    }
+  },
+  "total_amount": {
+    "amount": 94,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd40f"
+    }
+  },
+  "trip_distance": 20,
+  "waiting_time_in_minutes": 13,
+  "total_trip_time_in_minutes": 55,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-11-16T23:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd406"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd290"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27c"
+  },
+  "pickup_location": {
+    "building_number": 9,
+    "street": "Anderson Forks",
+    "city": "London",
+    "pincode": "1YI0I"
+  },
+  "drop_location": {
+    "building_number": 4,
+    "street": "MacGyver Fork",
+    "city": "London",
+    "pincode": "MU3IC"
+  },
+  "no_of_passengers": 2,
+  "status": "completed",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd407"
+    }
+  },
+  "service_fees": {
+    "amount": 79,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd408"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd409"
+    }
+  },
+  "total_amount": {
+    "amount": 95,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd40a"
+    }
+  },
+  "trip_distance": 18,
+  "waiting_time_in_minutes": 19,
+  "total_trip_time_in_minutes": 45,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-11-16T18:19:25Z"
+  },
+  "driver_rating": 4,
+  "operator_rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd410"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd297"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd283"
+  },
+  "pickup_location": {
+    "building_number": 6,
+    "street": "Keebler Terrace",
+    "city": "London",
+    "pincode": "YMLIT"
+  },
+  "drop_location": {
+    "building_number": 2,
+    "street": "Lueilwitz Flats",
+    "city": "London",
+    "pincode": "Q0MND"
+  },
+  "no_of_passengers": 2,
+  "status": "completed",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd411"
+    }
+  },
+  "service_fees": {
+    "amount": 71,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd412"
+    }
+  },
+  "tax_fees": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd413"
+    }
+  },
+  "total_amount": {
+    "amount": 87,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd414"
+    }
+  },
+  "trip_distance": 14,
+  "waiting_time_in_minutes": 10,
+  "total_trip_time_in_minutes": 35,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-11-16T01:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd415"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28e"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27a"
+  },
+  "pickup_location": {
+    "building_number": 1,
+    "street": "Vickie Tunnel",
+    "city": "London",
+    "pincode": "WT5UU"
+  },
+  "drop_location": {
+    "building_number": 6,
+    "street": "Torp Junction",
+    "city": "London",
+    "pincode": "FXOH8"
+  },
+  "no_of_passengers": 3,
+  "status": "unfullfilled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd416"
+    }
+  },
+  "service_fees": {
+    "amount": 97,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd417"
+    }
+  },
+  "tax_fees": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd418"
+    }
+  },
+  "total_amount": {
+    "amount": 112,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd419"
+    }
+  },
+  "trip_distance": 17,
+  "waiting_time_in_minutes": 10,
+  "total_trip_time_in_minutes": 33,
+  "on_peak": false,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-09T09:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd41a"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28f"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27b"
+  },
+  "pickup_location": {
+    "building_number": 3,
+    "street": "Gleason Mews",
+    "city": "London",
+    "pincode": "EC4WM"
+  },
+  "drop_location": {
+    "building_number": 5,
+    "street": "Jacobi Spurs",
+    "city": "London",
+    "pincode": "NTX36"
+  },
+  "no_of_passengers": 3,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd41b"
+    }
+  },
+  "service_fees": {
+    "amount": 80,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd41c"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd41d"
+    }
+  },
+  "total_amount": {
+    "amount": 91,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd41e"
+    }
+  },
+  "trip_distance": 13,
+  "waiting_time_in_minutes": 12,
+  "total_trip_time_in_minutes": 53,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-09T19:19:25Z"
+  },
+  "driver_rating": 2,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd41f"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd291"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27d"
+  },
+  "pickup_location": {
+    "building_number": 10,
+    "street": "Parisian Ranch",
+    "city": "London",
+    "pincode": "2XXZH"
+  },
+  "drop_location": {
+    "building_number": 8,
+    "street": "Paolo Garden",
+    "city": "London",
+    "pincode": "K5Q7E"
+  },
+  "no_of_passengers": 2,
+  "status": "pending",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd420"
+    }
+  },
+  "service_fees": {
+    "amount": 93,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd421"
+    }
+  },
+  "tax_fees": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd422"
+    }
+  },
+  "total_amount": {
+    "amount": 113,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd423"
+    }
+  },
+  "trip_distance": 14,
+  "waiting_time_in_minutes": 19,
+  "total_trip_time_in_minutes": 48,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-09T22:19:25Z"
+  },
+  "driver_rating": 1,
+  "operator_rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd424"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd293"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27f"
+  },
+  "pickup_location": {
+    "building_number": 4,
+    "street": "Ron Overpass",
+    "city": "London",
+    "pincode": "KZ1GR"
+  },
+  "drop_location": {
+    "building_number": 4,
+    "street": "Rita Mount",
+    "city": "London",
+    "pincode": "810FG"
+  },
+  "no_of_passengers": 3,
+  "status": "unfullfilled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd425"
+    }
+  },
+  "service_fees": {
+    "amount": 79,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd426"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd427"
+    }
+  },
+  "total_amount": {
+    "amount": 93,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd428"
+    }
+  },
+  "trip_distance": 10,
+  "waiting_time_in_minutes": 11,
+  "total_trip_time_in_minutes": 42,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-09T01:19:25Z"
+  },
+  "driver_rating": 1,
+  "operator_rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd429"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd326"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd292"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27e"
+  },
+  "pickup_location": {
+    "building_number": 9,
+    "street": "Ferry Streets",
+    "city": "London",
+    "pincode": "55Q1M"
+  },
+  "drop_location": {
+    "building_number": 5,
+    "street": "Kassulke Stream",
+    "city": "London",
+    "pincode": "EU7LF"
+  },
+  "no_of_passengers": 2,
+  "status": "unfullfilled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd42a"
+    }
+  },
+  "service_fees": {
+    "amount": 88,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd42b"
+    }
+  },
+  "tax_fees": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd42c"
+    }
+  },
+  "total_amount": {
+    "amount": 104,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd42d"
+    }
+  },
+  "trip_distance": 14,
+  "waiting_time_in_minutes": 12,
+  "total_trip_time_in_minutes": 33,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-09T19:19:25Z"
+  },
+  "driver_rating": 4,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd42e"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd290"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27c"
+  },
+  "pickup_location": {
+    "building_number": 1,
+    "street": "Flatley Ramp",
+    "city": "London",
+    "pincode": "0LF34"
+  },
+  "drop_location": {
+    "building_number": 8,
+    "street": "Harris Fork",
+    "city": "London",
+    "pincode": "QJ6LH"
+  },
+  "no_of_passengers": 2,
+  "status": "cancelled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd42f"
+    }
+  },
+  "service_fees": {
+    "amount": 65,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd430"
+    }
+  },
+  "tax_fees": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd431"
+    }
+  },
+  "total_amount": {
+    "amount": 84,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd432"
+    }
+  },
+  "trip_distance": 19,
+  "waiting_time_in_minutes": 20,
+  "total_trip_time_in_minutes": 37,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-09T18:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd433"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd294"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd280"
+  },
+  "pickup_location": {
+    "building_number": 9,
+    "street": "Schowalter View",
+    "city": "London",
+    "pincode": "48VYJ"
+  },
+  "drop_location": {
+    "building_number": 2,
+    "street": "Greg Villages",
+    "city": "London",
+    "pincode": "RQ9NF"
+  },
+  "no_of_passengers": 2,
+  "status": "unfullfilled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd434"
+    }
+  },
+  "service_fees": {
+    "amount": 73,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd435"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd436"
+    }
+  },
+  "total_amount": {
+    "amount": 88,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd437"
+    }
+  },
+  "trip_distance": 10,
+  "waiting_time_in_minutes": 14,
+  "total_trip_time_in_minutes": 43,
+  "on_peak": false,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-09T13:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd43d"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28e"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27a"
+  },
+  "pickup_location": {
+    "building_number": 10,
+    "street": "Haag Plain",
+    "city": "London",
+    "pincode": "DGKSM"
+  },
+  "drop_location": {
+    "building_number": 10,
+    "street": "Oswald Crest",
+    "city": "London",
+    "pincode": "RNZ02"
+  },
+  "no_of_passengers": 3,
+  "status": "completed",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd43e"
+    }
+  },
+  "service_fees": {
+    "amount": 51,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd43f"
+    }
+  },
+  "tax_fees": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd440"
+    }
+  },
+  "total_amount": {
+    "amount": 67,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd441"
+    }
+  },
+  "trip_distance": 14,
+  "waiting_time_in_minutes": 12,
+  "total_trip_time_in_minutes": 43,
+  "on_peak": false,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-09T08:19:25Z"
+  },
+  "driver_rating": 4,
+  "operator_rating": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd438"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd297"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd283"
+  },
+  "pickup_location": {
+    "building_number": 3,
+    "street": "Crona Crescent",
+    "city": "London",
+    "pincode": "DDWKB"
+  },
+  "drop_location": {
+    "building_number": 1,
+    "street": "Bahringer Ville",
+    "city": "London",
+    "pincode": "I1SL6"
+  },
+  "no_of_passengers": 2,
+  "status": "cancelled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd439"
+    }
+  },
+  "service_fees": {
+    "amount": 69,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd43a"
+    }
+  },
+  "tax_fees": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd43b"
+    }
+  },
+  "total_amount": {
+    "amount": 84,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd43c"
+    }
+  },
+  "trip_distance": 11,
+  "waiting_time_in_minutes": 11,
+  "total_trip_time_in_minutes": 50,
+  "on_peak": false,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-09T14:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd44c"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd293"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27f"
+  },
+  "pickup_location": {
+    "building_number": 5,
+    "street": "McClure Turnpike",
+    "city": "London",
+    "pincode": "7IX10"
+  },
+  "drop_location": {
+    "building_number": 6,
+    "street": "Rod Route",
+    "city": "London",
+    "pincode": "CY3SI"
+  },
+  "no_of_passengers": 3,
+  "status": "pending",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd44d"
+    }
+  },
+  "service_fees": {
+    "amount": 51,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd44e"
+    }
+  },
+  "tax_fees": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd44f"
+    }
+  },
+  "total_amount": {
+    "amount": 64,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd450"
+    }
+  },
+  "trip_distance": 19,
+  "waiting_time_in_minutes": 14,
+  "total_trip_time_in_minutes": 54,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-09T05:19:25Z"
+  },
+  "driver_rating": 4,
+  "operator_rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd447"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd291"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27d"
+  },
+  "pickup_location": {
+    "building_number": 8,
+    "street": "Stan Lights",
+    "city": "London",
+    "pincode": "80HV2"
+  },
+  "drop_location": {
+    "building_number": 4,
+    "street": "Kiana Estates",
+    "city": "London",
+    "pincode": "Y4BGZ"
+  },
+  "no_of_passengers": 3,
+  "status": "cancelled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd448"
+    }
+  },
+  "service_fees": {
+    "amount": 99,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd449"
+    }
+  },
+  "tax_fees": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd44a"
+    }
+  },
+  "total_amount": {
+    "amount": 109,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd44b"
+    }
+  },
+  "trip_distance": 12,
+  "waiting_time_in_minutes": 12,
+  "total_trip_time_in_minutes": 54,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-09T23:19:25Z"
+  },
+  "driver_rating": 1,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd442"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28f"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27b"
+  },
+  "pickup_location": {
+    "building_number": 3,
+    "street": "Bernhard Spur",
+    "city": "London",
+    "pincode": "QYIU4"
+  },
+  "drop_location": {
+    "building_number": 5,
+    "street": "Chanel Walks",
+    "city": "London",
+    "pincode": "503OI"
+  },
+  "no_of_passengers": 2,
+  "status": "pending",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd443"
+    }
+  },
+  "service_fees": {
+    "amount": 75,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd444"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd445"
+    }
+  },
+  "total_amount": {
+    "amount": 87,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd446"
+    }
+  },
+  "trip_distance": 15,
+  "waiting_time_in_minutes": 16,
+  "total_trip_time_in_minutes": 55,
+  "on_peak": false,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-09T10:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd451"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd326"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd292"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27e"
+  },
+  "pickup_location": {
+    "building_number": 10,
+    "street": "Hilll Ports",
+    "city": "London",
+    "pincode": "CUMGB"
+  },
+  "drop_location": {
+    "building_number": 7,
+    "street": "Crystal Ville",
+    "city": "London",
+    "pincode": "6NZTY"
+  },
+  "no_of_passengers": 3,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd452"
+    }
+  },
+  "service_fees": {
+    "amount": 54,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd453"
+    }
+  },
+  "tax_fees": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd454"
+    }
+  },
+  "total_amount": {
+    "amount": 68,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd455"
+    }
+  },
+  "trip_distance": 14,
+  "waiting_time_in_minutes": 13,
+  "total_trip_time_in_minutes": 55,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-09T13:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd456"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd290"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27c"
+  },
+  "pickup_location": {
+    "building_number": 4,
+    "street": "Labadie Hollow",
+    "city": "London",
+    "pincode": "RT5XC"
+  },
+  "drop_location": {
+    "building_number": 1,
+    "street": "Bahringer Ridges",
+    "city": "London",
+    "pincode": "5X7V0"
+  },
+  "no_of_passengers": 2,
+  "status": "unfullfilled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd457"
+    }
+  },
+  "service_fees": {
+    "amount": 80,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd458"
+    }
+  },
+  "tax_fees": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd459"
+    }
+  },
+  "total_amount": {
+    "amount": 96,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd45a"
+    }
+  },
+  "trip_distance": 18,
+  "waiting_time_in_minutes": 13,
+  "total_trip_time_in_minutes": 55,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-09T00:19:25Z"
+  },
+  "driver_rating": 1,
+  "operator_rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd45b"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd294"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd280"
+  },
+  "pickup_location": {
+    "building_number": 7,
+    "street": "Cassandra Loaf",
+    "city": "London",
+    "pincode": "O1NTW"
+  },
+  "drop_location": {
+    "building_number": 2,
+    "street": "Ritchie Camp",
+    "city": "London",
+    "pincode": "NE4J9"
+  },
+  "no_of_passengers": 2,
+  "status": "completed",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd45c"
+    }
+  },
+  "service_fees": {
+    "amount": 75,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd45d"
+    }
+  },
+  "tax_fees": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd45e"
+    }
+  },
+  "total_amount": {
+    "amount": 87,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd45f"
+    }
+  },
+  "trip_distance": 17,
+  "waiting_time_in_minutes": 17,
+  "total_trip_time_in_minutes": 57,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-09T14:19:25Z"
+  },
+  "driver_rating": 2,
+  "operator_rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd460"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd297"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd283"
+  },
+  "pickup_location": {
+    "building_number": 10,
+    "street": "Wehner River",
+    "city": "London",
+    "pincode": "NQGD7"
+  },
+  "drop_location": {
+    "building_number": 9,
+    "street": "Hannah Pines",
+    "city": "London",
+    "pincode": "QYV2B"
+  },
+  "no_of_passengers": 2,
+  "status": "completed",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd461"
+    }
+  },
+  "service_fees": {
+    "amount": 55,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd462"
+    }
+  },
+  "tax_fees": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd463"
+    }
+  },
+  "total_amount": {
+    "amount": 68,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd464"
+    }
+  },
+  "trip_distance": 16,
+  "waiting_time_in_minutes": 19,
+  "total_trip_time_in_minutes": 53,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-09T04:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd465"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28e"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27a"
+  },
+  "pickup_location": {
+    "building_number": 10,
+    "street": "Shields View",
+    "city": "London",
+    "pincode": "MY5FD"
+  },
+  "drop_location": {
+    "building_number": 10,
+    "street": "Cristopher Street",
+    "city": "London",
+    "pincode": "GKJ3U"
+  },
+  "no_of_passengers": 2,
+  "status": "pending",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd466"
+    }
+  },
+  "service_fees": {
+    "amount": 62,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd467"
+    }
+  },
+  "tax_fees": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd468"
+    }
+  },
+  "total_amount": {
+    "amount": 80,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd469"
+    }
+  },
+  "trip_distance": 15,
+  "waiting_time_in_minutes": 17,
+  "total_trip_time_in_minutes": 59,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-09T20:19:25Z"
+  },
+  "driver_rating": 4,
+  "operator_rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd46a"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28f"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27b"
+  },
+  "pickup_location": {
+    "building_number": 1,
+    "street": "Botsford Manor",
+    "city": "London",
+    "pincode": "YM4FB"
+  },
+  "drop_location": {
+    "building_number": 6,
+    "street": "Jacobson Glens",
+    "city": "London",
+    "pincode": "3CNBH"
+  },
+  "no_of_passengers": 3,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd46b"
+    }
+  },
+  "service_fees": {
+    "amount": 63,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd46c"
+    }
+  },
+  "tax_fees": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd46d"
+    }
+  },
+  "total_amount": {
+    "amount": 77,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd46e"
+    }
+  },
+  "trip_distance": 18,
+  "waiting_time_in_minutes": 18,
+  "total_trip_time_in_minutes": 58,
+  "on_peak": false,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-09T10:19:25Z"
+  },
+  "driver_rating": 4,
+  "operator_rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd46f"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd291"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27d"
+  },
+  "pickup_location": {
+    "building_number": 8,
+    "street": "Fletcher Burgs",
+    "city": "London",
+    "pincode": "PNW1W"
+  },
+  "drop_location": {
+    "building_number": 3,
+    "street": "Schuppe Motorway",
+    "city": "London",
+    "pincode": "QMJF3"
+  },
+  "no_of_passengers": 3,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd470"
+    }
+  },
+  "service_fees": {
+    "amount": 85,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd471"
+    }
+  },
+  "tax_fees": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd472"
+    }
+  },
+  "total_amount": {
+    "amount": 102,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd473"
+    }
+  },
+  "trip_distance": 12,
+  "waiting_time_in_minutes": 14,
+  "total_trip_time_in_minutes": 54,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-09T01:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd479"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd326"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd292"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27e"
+  },
+  "pickup_location": {
+    "building_number": 4,
+    "street": "Windler Ways",
+    "city": "London",
+    "pincode": "DIGQ9"
+  },
+  "drop_location": {
+    "building_number": 5,
+    "street": "Daniel Pass",
+    "city": "London",
+    "pincode": "QWD3P"
+  },
+  "no_of_passengers": 3,
+  "status": "cancelled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd47a"
+    }
+  },
+  "service_fees": {
+    "amount": 94,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd47b"
+    }
+  },
+  "tax_fees": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd47c"
+    }
+  },
+  "total_amount": {
+    "amount": 111,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd47d"
+    }
+  },
+  "trip_distance": 19,
+  "waiting_time_in_minutes": 11,
+  "total_trip_time_in_minutes": 48,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-09T07:19:25Z"
+  },
+  "driver_rating": 1,
+  "operator_rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd474"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd293"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27f"
+  },
+  "pickup_location": {
+    "building_number": 9,
+    "street": "Adelle Burg",
+    "city": "London",
+    "pincode": "T7QEP"
+  },
+  "drop_location": {
+    "building_number": 6,
+    "street": "Herzog Canyon",
+    "city": "London",
+    "pincode": "N0D1V"
+  },
+  "no_of_passengers": 3,
+  "status": "completed",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd475"
+    }
+  },
+  "service_fees": {
+    "amount": 91,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd476"
+    }
+  },
+  "tax_fees": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd477"
+    }
+  },
+  "total_amount": {
+    "amount": 110,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd478"
+    }
+  },
+  "trip_distance": 16,
+  "waiting_time_in_minutes": 14,
+  "total_trip_time_in_minutes": 51,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-09T05:19:25Z"
+  },
+  "driver_rating": 1,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd47e"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd290"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27c"
+  },
+  "pickup_location": {
+    "building_number": 3,
+    "street": "Sporer Creek",
+    "city": "London",
+    "pincode": "452P3"
+  },
+  "drop_location": {
+    "building_number": 6,
+    "street": "Thomas Spring",
+    "city": "London",
+    "pincode": "8J1ES"
+  },
+  "no_of_passengers": 2,
+  "status": "pending",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd47f"
+    }
+  },
+  "service_fees": {
+    "amount": 54,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd480"
+    }
+  },
+  "tax_fees": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd481"
+    }
+  },
+  "total_amount": {
+    "amount": 69,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd482"
+    }
+  },
+  "trip_distance": 14,
+  "waiting_time_in_minutes": 16,
+  "total_trip_time_in_minutes": 38,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-09T18:19:25Z"
+  },
+  "driver_rating": 4,
+  "operator_rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd483"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd294"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd280"
+  },
+  "pickup_location": {
+    "building_number": 1,
+    "street": "Chaya Rapids",
+    "city": "London",
+    "pincode": "1IWNI"
+  },
+  "drop_location": {
+    "building_number": 2,
+    "street": "Ward Turnpike",
+    "city": "London",
+    "pincode": "WBG6T"
+  },
+  "no_of_passengers": 3,
+  "status": "completed",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd484"
+    }
+  },
+  "service_fees": {
+    "amount": 67,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd485"
+    }
+  },
+  "tax_fees": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd486"
+    }
+  },
+  "total_amount": {
+    "amount": 81,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd487"
+    }
+  },
+  "trip_distance": 17,
+  "waiting_time_in_minutes": 13,
+  "total_trip_time_in_minutes": 55,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-09T07:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd492"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28f"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27b"
+  },
+  "pickup_location": {
+    "building_number": 7,
+    "street": "Cormier Road",
+    "city": "London",
+    "pincode": "TKBHK"
+  },
+  "drop_location": {
+    "building_number": 1,
+    "street": "Koch Dale",
+    "city": "London",
+    "pincode": "S8TI0"
+  },
+  "no_of_passengers": 3,
+  "status": "completed",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd493"
+    }
+  },
+  "service_fees": {
+    "amount": 70,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd494"
+    }
+  },
+  "tax_fees": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd495"
+    }
+  },
+  "total_amount": {
+    "amount": 83,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd496"
+    }
+  },
+  "trip_distance": 12,
+  "waiting_time_in_minutes": 16,
+  "total_trip_time_in_minutes": 38,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-09T06:19:25Z"
+  },
+  "driver_rating": 1,
+  "operator_rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd488"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd297"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd283"
+  },
+  "pickup_location": {
+    "building_number": 8,
+    "street": "Krista Groves",
+    "city": "London",
+    "pincode": "NK3G5"
+  },
+  "drop_location": {
+    "building_number": 1,
+    "street": "Pollich Forges",
+    "city": "London",
+    "pincode": "UHV6C"
+  },
+  "no_of_passengers": 3,
+  "status": "unfullfilled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd489"
+    }
+  },
+  "service_fees": {
+    "amount": 77,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd48a"
+    }
+  },
+  "tax_fees": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd48b"
+    }
+  },
+  "total_amount": {
+    "amount": 95,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd48c"
+    }
+  },
+  "trip_distance": 10,
+  "waiting_time_in_minutes": 13,
+  "total_trip_time_in_minutes": 45,
+  "on_peak": false,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-09T08:19:25Z"
+  },
+  "driver_rating": 1,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd497"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd291"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27d"
+  },
+  "pickup_location": {
+    "building_number": 2,
+    "street": "Ortiz Trace",
+    "city": "London",
+    "pincode": "3EZD6"
+  },
+  "drop_location": {
+    "building_number": 8,
+    "street": "McClure Centers",
+    "city": "London",
+    "pincode": "C6WNH"
+  },
+  "no_of_passengers": 3,
+  "status": "completed",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd498"
+    }
+  },
+  "service_fees": {
+    "amount": 79,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd499"
+    }
+  },
+  "tax_fees": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd49a"
+    }
+  },
+  "total_amount": {
+    "amount": 95,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd49b"
+    }
+  },
+  "trip_distance": 14,
+  "waiting_time_in_minutes": 11,
+  "total_trip_time_in_minutes": 42,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-09T16:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd48d"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28e"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27a"
+  },
+  "pickup_location": {
+    "building_number": 3,
+    "street": "Wehner Parkways",
+    "city": "London",
+    "pincode": "FDJZU"
+  },
+  "drop_location": {
+    "building_number": 7,
+    "street": "Gunnar Mountains",
+    "city": "London",
+    "pincode": "BM4D0"
+  },
+  "no_of_passengers": 2,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd48e"
+    }
+  },
+  "service_fees": {
+    "amount": 69,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd48f"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd490"
+    }
+  },
+  "total_amount": {
+    "amount": 82,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd491"
+    }
+  },
+  "trip_distance": 18,
+  "waiting_time_in_minutes": 10,
+  "total_trip_time_in_minutes": 43,
+  "on_peak": false,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-09T08:19:25Z"
+  },
+  "driver_rating": 4,
+  "operator_rating": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd4a1"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd326"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd292"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27e"
+  },
+  "pickup_location": {
+    "building_number": 10,
+    "street": "Rohan Village",
+    "city": "London",
+    "pincode": "RUTYP"
+  },
+  "drop_location": {
+    "building_number": 6,
+    "street": "Rickie Stravenue",
+    "city": "London",
+    "pincode": "VH8R9"
+  },
+  "no_of_passengers": 2,
+  "status": "cancelled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4a2"
+    }
+  },
+  "service_fees": {
+    "amount": 92,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4a3"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4a4"
+    }
+  },
+  "total_amount": {
+    "amount": 108,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4a5"
+    }
+  },
+  "trip_distance": 10,
+  "waiting_time_in_minutes": 18,
+  "total_trip_time_in_minutes": 33,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-09T17:19:25Z"
+  },
+  "driver_rating": 2,
+  "operator_rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd4a6"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd290"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27c"
+  },
+  "pickup_location": {
+    "building_number": 9,
+    "street": "Darren Spur",
+    "city": "London",
+    "pincode": "8451H"
+  },
+  "drop_location": {
+    "building_number": 4,
+    "street": "Ansel Villages",
+    "city": "London",
+    "pincode": "CWJ11"
+  },
+  "no_of_passengers": 3,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4a7"
+    }
+  },
+  "service_fees": {
+    "amount": 88,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4a8"
+    }
+  },
+  "tax_fees": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4a9"
+    }
+  },
+  "total_amount": {
+    "amount": 103,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4aa"
+    }
+  },
+  "trip_distance": 20,
+  "waiting_time_in_minutes": 14,
+  "total_trip_time_in_minutes": 45,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-09T07:19:25Z"
+  },
+  "driver_rating": 4,
+  "operator_rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd4ab"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd294"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd280"
+  },
+  "pickup_location": {
+    "building_number": 3,
+    "street": "Baumbach Lock",
+    "city": "London",
+    "pincode": "YFJ07"
+  },
+  "drop_location": {
+    "building_number": 4,
+    "street": "Evans Villages",
+    "city": "London",
+    "pincode": "QIDV6"
+  },
+  "no_of_passengers": 3,
+  "status": "cancelled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4ac"
+    }
+  },
+  "service_fees": {
+    "amount": 66,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4ad"
+    }
+  },
+  "tax_fees": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4ae"
+    }
+  },
+  "total_amount": {
+    "amount": 80,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4af"
+    }
+  },
+  "trip_distance": 10,
+  "waiting_time_in_minutes": 20,
+  "total_trip_time_in_minutes": 40,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-09T20:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd49c"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd293"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27f"
+  },
+  "pickup_location": {
+    "building_number": 10,
+    "street": "Williamson Lane",
+    "city": "London",
+    "pincode": "MEE4C"
+  },
+  "drop_location": {
+    "building_number": 10,
+    "street": "Freeda Summit",
+    "city": "London",
+    "pincode": "6T6B3"
+  },
+  "no_of_passengers": 3,
+  "status": "pending",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd49d"
+    }
+  },
+  "service_fees": {
+    "amount": 89,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd49e"
+    }
+  },
+  "tax_fees": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd49f"
+    }
+  },
+  "total_amount": {
+    "amount": 102,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4a0"
+    }
+  },
+  "trip_distance": 14,
+  "waiting_time_in_minutes": 20,
+  "total_trip_time_in_minutes": 46,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-09T00:19:25Z"
+  },
+  "driver_rating": 4,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd4b5"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28e"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27a"
+  },
+  "pickup_location": {
+    "building_number": 10,
+    "street": "Brice Fall",
+    "city": "London",
+    "pincode": "6MVX7"
+  },
+  "drop_location": {
+    "building_number": 1,
+    "street": "Bashirian Crescent",
+    "city": "London",
+    "pincode": "JW2PE"
+  },
+  "no_of_passengers": 3,
+  "status": "unfullfilled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4b6"
+    }
+  },
+  "service_fees": {
+    "amount": 67,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4b7"
+    }
+  },
+  "tax_fees": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4b8"
+    }
+  },
+  "total_amount": {
+    "amount": 83,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4b9"
+    }
+  },
+  "trip_distance": 12,
+  "waiting_time_in_minutes": 19,
+  "total_trip_time_in_minutes": 34,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-09T06:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd4b0"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd297"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd283"
+  },
+  "pickup_location": {
+    "building_number": 9,
+    "street": "Quinten Knoll",
+    "city": "London",
+    "pincode": "V5EGB"
+  },
+  "drop_location": {
+    "building_number": 4,
+    "street": "Skiles Courts",
+    "city": "London",
+    "pincode": "1PZ93"
+  },
+  "no_of_passengers": 2,
+  "status": "unfullfilled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4b1"
+    }
+  },
+  "service_fees": {
+    "amount": 94,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4b2"
+    }
+  },
+  "tax_fees": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4b3"
+    }
+  },
+  "total_amount": {
+    "amount": 110,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4b4"
+    }
+  },
+  "trip_distance": 20,
+  "waiting_time_in_minutes": 15,
+  "total_trip_time_in_minutes": 51,
+  "on_peak": false,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-09T10:19:25Z"
+  },
+  "driver_rating": 2,
+  "operator_rating": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd4ba"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28f"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27b"
+  },
+  "pickup_location": {
+    "building_number": 5,
+    "street": "Hassan Fork",
+    "city": "London",
+    "pincode": "7SF0P"
+  },
+  "drop_location": {
+    "building_number": 4,
+    "street": "Kuhlman Union",
+    "city": "London",
+    "pincode": "6LFGF"
+  },
+  "no_of_passengers": 2,
+  "status": "pending",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4bb"
+    }
+  },
+  "service_fees": {
+    "amount": 58,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4bc"
+    }
+  },
+  "tax_fees": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4bd"
+    }
+  },
+  "total_amount": {
+    "amount": 74,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4be"
+    }
+  },
+  "trip_distance": 15,
+  "waiting_time_in_minutes": 17,
+  "total_trip_time_in_minutes": 42,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-09T01:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd4bf"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd291"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27d"
+  },
+  "pickup_location": {
+    "building_number": 5,
+    "street": "Abdullah Streets",
+    "city": "London",
+    "pincode": "ZNOJF"
+  },
+  "drop_location": {
+    "building_number": 7,
+    "street": "Sallie Tunnel",
+    "city": "London",
+    "pincode": "KK02Q"
+  },
+  "no_of_passengers": 3,
+  "status": "completed",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4c0"
+    }
+  },
+  "service_fees": {
+    "amount": 59,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4c1"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4c2"
+    }
+  },
+  "total_amount": {
+    "amount": 73,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4c3"
+    }
+  },
+  "trip_distance": 13,
+  "waiting_time_in_minutes": 19,
+  "total_trip_time_in_minutes": 59,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-09T08:19:25Z"
+  },
+  "driver_rating": 1,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd4c9"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd326"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd292"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27e"
+  },
+  "pickup_location": {
+    "building_number": 4,
+    "street": "Dolly Mill",
+    "city": "London",
+    "pincode": "D6GGE"
+  },
+  "drop_location": {
+    "building_number": 1,
+    "street": "Emely Brooks",
+    "city": "London",
+    "pincode": "KRDY8"
+  },
+  "no_of_passengers": 2,
+  "status": "cancelled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4ca"
+    }
+  },
+  "service_fees": {
+    "amount": 97,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4cb"
+    }
+  },
+  "tax_fees": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4cc"
+    }
+  },
+  "total_amount": {
+    "amount": 112,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4cd"
+    }
+  },
+  "trip_distance": 12,
+  "waiting_time_in_minutes": 10,
+  "total_trip_time_in_minutes": 51,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-09T22:19:25Z"
+  },
+  "driver_rating": 4,
+  "operator_rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd4ce"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd290"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27c"
+  },
+  "pickup_location": {
+    "building_number": 3,
+    "street": "Schaefer Views",
+    "city": "London",
+    "pincode": "SSECO"
+  },
+  "drop_location": {
+    "building_number": 3,
+    "street": "Bessie Court",
+    "city": "London",
+    "pincode": "SKR4C"
+  },
+  "no_of_passengers": 2,
+  "status": "cancelled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4cf"
+    }
+  },
+  "service_fees": {
+    "amount": 79,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4d0"
+    }
+  },
+  "tax_fees": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4d1"
+    }
+  },
+  "total_amount": {
+    "amount": 92,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4d2"
+    }
+  },
+  "trip_distance": 15,
+  "waiting_time_in_minutes": 20,
+  "total_trip_time_in_minutes": 42,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-09T17:19:25Z"
+  },
+  "driver_rating": 1,
+  "operator_rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd3cf"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd291"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27d"
+  },
+  "pickup_location": {
+    "building_number": 1,
+    "street": "Talon Camp",
+    "city": "London",
+    "pincode": "W1SB0"
+  },
+  "drop_location": {
+    "building_number": 5,
+    "street": "Kassulke Pines",
+    "city": "London",
+    "pincode": "1OX8T"
+  },
+  "no_of_passengers": 3,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3d0"
+    }
+  },
+  "service_fees": {
+    "amount": 95,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3d1"
+    }
+  },
+  "tax_fees": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3d2"
+    }
+  },
+  "total_amount": {
+    "amount": 111,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3d3"
+    }
+  },
+  "trip_distance": 12,
+  "waiting_time_in_minutes": 17,
+  "total_trip_time_in_minutes": 58,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-11-16T17:19:25Z"
+  },
+  "driver_rating": 4,
+  "operator_rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd4c4"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd293"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27f"
+  },
+  "pickup_location": {
+    "building_number": 5,
+    "street": "Georgette Glen",
+    "city": "London",
+    "pincode": "QUWUH"
+  },
+  "drop_location": {
+    "building_number": 2,
+    "street": "Bayer Grove",
+    "city": "London",
+    "pincode": "NQQC4"
+  },
+  "no_of_passengers": 2,
+  "status": "cancelled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4c5"
+    }
+  },
+  "service_fees": {
+    "amount": 60,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4c6"
+    }
+  },
+  "tax_fees": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4c7"
+    }
+  },
+  "total_amount": {
+    "amount": 80,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4c8"
+    }
+  },
+  "trip_distance": 17,
+  "waiting_time_in_minutes": 14,
+  "total_trip_time_in_minutes": 39,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-09T09:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd4dd"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28e"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27a"
+  },
+  "pickup_location": {
+    "building_number": 9,
+    "street": "Daugherty Mission",
+    "city": "London",
+    "pincode": "9W0MN"
+  },
+  "drop_location": {
+    "building_number": 8,
+    "street": "Lind Hill",
+    "city": "London",
+    "pincode": "XO783"
+  },
+  "no_of_passengers": 3,
+  "status": "pending",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4de"
+    }
+  },
+  "service_fees": {
+    "amount": 75,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4df"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4e0"
+    }
+  },
+  "total_amount": {
+    "amount": 88,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4e1"
+    }
+  },
+  "trip_distance": 19,
+  "waiting_time_in_minutes": 19,
+  "total_trip_time_in_minutes": 39,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-16T04:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd4e2"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28f"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27b"
+  },
+  "pickup_location": {
+    "building_number": 4,
+    "street": "Vernon Ramp",
+    "city": "London",
+    "pincode": "N3IW5"
+  },
+  "drop_location": {
+    "building_number": 3,
+    "street": "Langosh Trafficway",
+    "city": "London",
+    "pincode": "7ZTDJ"
+  },
+  "no_of_passengers": 2,
+  "status": "cancelled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4e3"
+    }
+  },
+  "service_fees": {
+    "amount": 52,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4e4"
+    }
+  },
+  "tax_fees": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4e5"
+    }
+  },
+  "total_amount": {
+    "amount": 64,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4e6"
+    }
+  },
+  "trip_distance": 19,
+  "waiting_time_in_minutes": 16,
+  "total_trip_time_in_minutes": 54,
+  "on_peak": false,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-16T03:19:25Z"
+  },
+  "driver_rating": 1,
+  "operator_rating": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd4ec"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd293"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27f"
+  },
+  "pickup_location": {
+    "building_number": 2,
+    "street": "Hosea Forest",
+    "city": "London",
+    "pincode": "KU1I2"
+  },
+  "drop_location": {
+    "building_number": 2,
+    "street": "Kshlerin Shore",
+    "city": "London",
+    "pincode": "TJBH5"
+  },
+  "no_of_passengers": 2,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4ed"
+    }
+  },
+  "service_fees": {
+    "amount": 70,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4ee"
+    }
+  },
+  "tax_fees": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4ef"
+    }
+  },
+  "total_amount": {
+    "amount": 85,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4f0"
+    }
+  },
+  "trip_distance": 15,
+  "waiting_time_in_minutes": 14,
+  "total_trip_time_in_minutes": 32,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-16T20:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd4d8"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd297"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd283"
+  },
+  "pickup_location": {
+    "building_number": 7,
+    "street": "Mraz Mountains",
+    "city": "London",
+    "pincode": "4NU05"
+  },
+  "drop_location": {
+    "building_number": 8,
+    "street": "Bradtke River",
+    "city": "London",
+    "pincode": "4U16R"
+  },
+  "no_of_passengers": 2,
+  "status": "pending",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4d9"
+    }
+  },
+  "service_fees": {
+    "amount": 59,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4da"
+    }
+  },
+  "tax_fees": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4db"
+    }
+  },
+  "total_amount": {
+    "amount": 70,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4dc"
+    }
+  },
+  "trip_distance": 10,
+  "waiting_time_in_minutes": 11,
+  "total_trip_time_in_minutes": 42,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-09T05:19:25Z"
+  },
+  "driver_rating": 4,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd4f1"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd326"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd292"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27e"
+  },
+  "pickup_location": {
+    "building_number": 10,
+    "street": "Virgie Mall",
+    "city": "London",
+    "pincode": "NJ286"
+  },
+  "drop_location": {
+    "building_number": 3,
+    "street": "Rosemary Trail",
+    "city": "London",
+    "pincode": "03EB2"
+  },
+  "no_of_passengers": 3,
+  "status": "completed",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4f2"
+    }
+  },
+  "service_fees": {
+    "amount": 70,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4f3"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4f4"
+    }
+  },
+  "total_amount": {
+    "amount": 82,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4f5"
+    }
+  },
+  "trip_distance": 20,
+  "waiting_time_in_minutes": 12,
+  "total_trip_time_in_minutes": 36,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-16T16:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd3ca"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28f"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27b"
+  },
+  "pickup_location": {
+    "building_number": 6,
+    "street": "Gerhard Unions",
+    "city": "London",
+    "pincode": "H9I7W"
+  },
+  "drop_location": {
+    "building_number": 3,
+    "street": "Considine Alley",
+    "city": "London",
+    "pincode": "X6XMO"
+  },
+  "no_of_passengers": 3,
+  "status": "unfullfilled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3cb"
+    }
+  },
+  "service_fees": {
+    "amount": 93,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3cc"
+    }
+  },
+  "tax_fees": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3cd"
+    }
+  },
+  "total_amount": {
+    "amount": 109,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3ce"
+    }
+  },
+  "trip_distance": 11,
+  "waiting_time_in_minutes": 10,
+  "total_trip_time_in_minutes": 55,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-11-16T09:19:25Z"
+  },
+  "driver_rating": 4,
+  "operator_rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd4e7"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd291"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27d"
+  },
+  "pickup_location": {
+    "building_number": 8,
+    "street": "Everardo Ranch",
+    "city": "London",
+    "pincode": "W80DQ"
+  },
+  "drop_location": {
+    "building_number": 8,
+    "street": "Altenwerth Cove",
+    "city": "London",
+    "pincode": "HGZBP"
+  },
+  "no_of_passengers": 3,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4e8"
+    }
+  },
+  "service_fees": {
+    "amount": 76,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4e9"
+    }
+  },
+  "tax_fees": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4ea"
+    }
+  },
+  "total_amount": {
+    "amount": 90,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4eb"
+    }
+  },
+  "trip_distance": 16,
+  "waiting_time_in_minutes": 17,
+  "total_trip_time_in_minutes": 31,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-16T16:19:25Z"
+  },
+  "driver_rating": 1,
+  "operator_rating": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd4fb"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd294"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd280"
+  },
+  "pickup_location": {
+    "building_number": 4,
+    "street": "Sallie Loop",
+    "city": "London",
+    "pincode": "H5OFG"
+  },
+  "drop_location": {
+    "building_number": 6,
+    "street": "Rupert Wall",
+    "city": "London",
+    "pincode": "7G0TG"
+  },
+  "no_of_passengers": 3,
+  "status": "cancelled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4fc"
+    }
+  },
+  "service_fees": {
+    "amount": 97,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4fd"
+    }
+  },
+  "tax_fees": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4fe"
+    }
+  },
+  "total_amount": {
+    "amount": 113,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4ff"
+    }
+  },
+  "trip_distance": 19,
+  "waiting_time_in_minutes": 19,
+  "total_trip_time_in_minutes": 37,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-16T23:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd505"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28e"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27a"
+  },
+  "pickup_location": {
+    "building_number": 4,
+    "street": "Kub Knolls",
+    "city": "London",
+    "pincode": "WJ70D"
+  },
+  "drop_location": {
+    "building_number": 9,
+    "street": "Celestine Crest",
+    "city": "London",
+    "pincode": "1BSXW"
+  },
+  "no_of_passengers": 2,
+  "status": "pending",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd506"
+    }
+  },
+  "service_fees": {
+    "amount": 56,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd507"
+    }
+  },
+  "tax_fees": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd508"
+    }
+  },
+  "total_amount": {
+    "amount": 74,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd509"
+    }
+  },
+  "trip_distance": 13,
+  "waiting_time_in_minutes": 18,
+  "total_trip_time_in_minutes": 50,
+  "on_peak": false,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-16T03:19:25Z"
+  },
+  "driver_rating": 1,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd50a"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28f"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27b"
+  },
+  "pickup_location": {
+    "building_number": 8,
+    "street": "Altenwerth Radial",
+    "city": "London",
+    "pincode": "GRXO1"
+  },
+  "drop_location": {
+    "building_number": 4,
+    "street": "Nathanael Burg",
+    "city": "London",
+    "pincode": "C6M69"
+  },
+  "no_of_passengers": 2,
+  "status": "completed",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd50b"
+    }
+  },
+  "service_fees": {
+    "amount": 75,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd50c"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd50d"
+    }
+  },
+  "total_amount": {
+    "amount": 91,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd50e"
+    }
+  },
+  "trip_distance": 12,
+  "waiting_time_in_minutes": 11,
+  "total_trip_time_in_minutes": 43,
+  "on_peak": false,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-16T06:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd500"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd297"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd283"
+  },
+  "pickup_location": {
+    "building_number": 5,
+    "street": "Kristin Village",
+    "city": "London",
+    "pincode": "2G50Z"
+  },
+  "drop_location": {
+    "building_number": 8,
+    "street": "Grady Orchard",
+    "city": "London",
+    "pincode": "LMX43"
+  },
+  "no_of_passengers": 2,
+  "status": "completed",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd501"
+    }
+  },
+  "service_fees": {
+    "amount": 73,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd502"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd503"
+    }
+  },
+  "total_amount": {
+    "amount": 86,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd504"
+    }
+  },
+  "trip_distance": 20,
+  "waiting_time_in_minutes": 15,
+  "total_trip_time_in_minutes": 39,
+  "on_peak": false,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-16T21:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd50f"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd291"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27d"
+  },
+  "pickup_location": {
+    "building_number": 4,
+    "street": "Williamson Harbor",
+    "city": "London",
+    "pincode": "ZX7Y0"
+  },
+  "drop_location": {
+    "building_number": 10,
+    "street": "Reichert Viaduct",
+    "city": "London",
+    "pincode": "RYP6E"
+  },
+  "no_of_passengers": 2,
+  "status": "unfullfilled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd510"
+    }
+  },
+  "service_fees": {
+    "amount": 56,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd511"
+    }
+  },
+  "tax_fees": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd512"
+    }
+  },
+  "total_amount": {
+    "amount": 72,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd513"
+    }
+  },
+  "trip_distance": 13,
+  "waiting_time_in_minutes": 18,
+  "total_trip_time_in_minutes": 37,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-16T02:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd514"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd293"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27f"
+  },
+  "pickup_location": {
+    "building_number": 1,
+    "street": "Juston Estate",
+    "city": "London",
+    "pincode": "34201"
+  },
+  "drop_location": {
+    "building_number": 5,
+    "street": "Taryn Forks",
+    "city": "London",
+    "pincode": "UYEBY"
+  },
+  "no_of_passengers": 2,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd515"
+    }
+  },
+  "service_fees": {
+    "amount": 79,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd516"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd517"
+    }
+  },
+  "total_amount": {
+    "amount": 95,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd518"
+    }
+  },
+  "trip_distance": 12,
+  "waiting_time_in_minutes": 15,
+  "total_trip_time_in_minutes": 60,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-16T01:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd519"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd326"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd292"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27e"
+  },
+  "pickup_location": {
+    "building_number": 8,
+    "street": "Edwina Tunnel",
+    "city": "London",
+    "pincode": "E9P7I"
+  },
+  "drop_location": {
+    "building_number": 1,
+    "street": "Marquardt Roads",
+    "city": "London",
+    "pincode": "29RPW"
+  },
+  "no_of_passengers": 2,
+  "status": "cancelled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd51a"
+    }
+  },
+  "service_fees": {
+    "amount": 52,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd51b"
+    }
+  },
+  "tax_fees": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd51c"
+    }
+  },
+  "total_amount": {
+    "amount": 69,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd51d"
+    }
+  },
+  "trip_distance": 20,
+  "waiting_time_in_minutes": 12,
+  "total_trip_time_in_minutes": 50,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-16T19:19:25Z"
+  },
+  "driver_rating": 2,
+  "operator_rating": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd51e"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd290"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27c"
+  },
+  "pickup_location": {
+    "building_number": 10,
+    "street": "Victoria Station",
+    "city": "London",
+    "pincode": "NGB3Z"
+  },
+  "drop_location": {
+    "building_number": 3,
+    "street": "Veum Ridges",
+    "city": "London",
+    "pincode": "GPUJX"
+  },
+  "no_of_passengers": 3,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd51f"
+    }
+  },
+  "service_fees": {
+    "amount": 85,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd520"
+    }
+  },
+  "tax_fees": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd521"
+    }
+  },
+  "total_amount": {
+    "amount": 101,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd522"
+    }
+  },
+  "trip_distance": 17,
+  "waiting_time_in_minutes": 12,
+  "total_trip_time_in_minutes": 30,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-16T00:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd532"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28f"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27b"
+  },
+  "pickup_location": {
+    "building_number": 2,
+    "street": "Lebsack Spur",
+    "city": "London",
+    "pincode": "VXW58"
+  },
+  "drop_location": {
+    "building_number": 10,
+    "street": "Nolan Station",
+    "city": "London",
+    "pincode": "81DH9"
+  },
+  "no_of_passengers": 2,
+  "status": "unfullfilled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd533"
+    }
+  },
+  "service_fees": {
+    "amount": 54,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd534"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd535"
+    }
+  },
+  "total_amount": {
+    "amount": 67,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd536"
+    }
+  },
+  "trip_distance": 13,
+  "waiting_time_in_minutes": 10,
+  "total_trip_time_in_minutes": 57,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-16T17:19:25Z"
+  },
+  "driver_rating": 1,
+  "operator_rating": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd52d"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28e"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27a"
+  },
+  "pickup_location": {
+    "building_number": 4,
+    "street": "Ryan Terrace",
+    "city": "London",
+    "pincode": "SK2XK"
+  },
+  "drop_location": {
+    "building_number": 4,
+    "street": "Arvilla Spur",
+    "city": "London",
+    "pincode": "EUYV4"
+  },
+  "no_of_passengers": 3,
+  "status": "pending",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd52e"
+    }
+  },
+  "service_fees": {
+    "amount": 93,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd52f"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd530"
+    }
+  },
+  "total_amount": {
+    "amount": 105,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd531"
+    }
+  },
+  "trip_distance": 15,
+  "waiting_time_in_minutes": 14,
+  "total_trip_time_in_minutes": 59,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-16T00:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd55a"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28f"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27b"
+  },
+  "pickup_location": {
+    "building_number": 2,
+    "street": "Vladimir Mill",
+    "city": "London",
+    "pincode": "CZML0"
+  },
+  "drop_location": {
+    "building_number": 10,
+    "street": "Dan Rapids",
+    "city": "London",
+    "pincode": "OT52J"
+  },
+  "no_of_passengers": 3,
+  "status": "pending",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd55b"
+    }
+  },
+  "service_fees": {
+    "amount": 64,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd55c"
+    }
+  },
+  "tax_fees": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd55d"
+    }
+  },
+  "total_amount": {
+    "amount": 79,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd55e"
+    }
+  },
+  "trip_distance": 17,
+  "waiting_time_in_minutes": 17,
+  "total_trip_time_in_minutes": 52,
+  "on_peak": false,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-16T02:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd555"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28e"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27a"
+  },
+  "pickup_location": {
+    "building_number": 2,
+    "street": "Lubowitz Circle",
+    "city": "London",
+    "pincode": "Z0IGE"
+  },
+  "drop_location": {
+    "building_number": 6,
+    "street": "Boehm Glens",
+    "city": "London",
+    "pincode": "7D0CZ"
+  },
+  "no_of_passengers": 2,
+  "status": "cancelled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd556"
+    }
+  },
+  "service_fees": {
+    "amount": 69,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd557"
+    }
+  },
+  "tax_fees": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd558"
+    }
+  },
+  "total_amount": {
+    "amount": 88,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd559"
+    }
+  },
+  "trip_distance": 18,
+  "waiting_time_in_minutes": 11,
+  "total_trip_time_in_minutes": 30,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-16T21:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd550"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd297"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd283"
+  },
+  "pickup_location": {
+    "building_number": 4,
+    "street": "Claire Orchard",
+    "city": "London",
+    "pincode": "DTLIZ"
+  },
+  "drop_location": {
+    "building_number": 7,
+    "street": "Concepcion Avenue",
+    "city": "London",
+    "pincode": "RCW29"
+  },
+  "no_of_passengers": 2,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd551"
+    }
+  },
+  "service_fees": {
+    "amount": 54,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd552"
+    }
+  },
+  "tax_fees": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd553"
+    }
+  },
+  "total_amount": {
+    "amount": 65,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd554"
+    }
+  },
+  "trip_distance": 15,
+  "waiting_time_in_minutes": 19,
+  "total_trip_time_in_minutes": 32,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-16T04:19:25Z"
+  },
+  "driver_rating": 2,
+  "operator_rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd54b"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd294"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd280"
+  },
+  "pickup_location": {
+    "building_number": 9,
+    "street": "Schneider Shoals",
+    "city": "London",
+    "pincode": "PIKXR"
+  },
+  "drop_location": {
+    "building_number": 3,
+    "street": "Hegmann Path",
+    "city": "London",
+    "pincode": "WGGP1"
+  },
+  "no_of_passengers": 2,
+  "status": "unfullfilled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd54c"
+    }
+  },
+  "service_fees": {
+    "amount": 53,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd54d"
+    }
+  },
+  "tax_fees": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd54e"
+    }
+  },
+  "total_amount": {
+    "amount": 71,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd54f"
+    }
+  },
+  "trip_distance": 11,
+  "waiting_time_in_minutes": 19,
+  "total_trip_time_in_minutes": 41,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-16T04:19:25Z"
+  },
+  "driver_rating": 2,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd546"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd290"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27c"
+  },
+  "pickup_location": {
+    "building_number": 2,
+    "street": "Keeling Harbors",
+    "city": "London",
+    "pincode": "BMZVL"
+  },
+  "drop_location": {
+    "building_number": 1,
+    "street": "Yost Pike",
+    "city": "London",
+    "pincode": "7UOU3"
+  },
+  "no_of_passengers": 2,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd547"
+    }
+  },
+  "service_fees": {
+    "amount": 97,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd548"
+    }
+  },
+  "tax_fees": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd549"
+    }
+  },
+  "total_amount": {
+    "amount": 114,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd54a"
+    }
+  },
+  "trip_distance": 16,
+  "waiting_time_in_minutes": 13,
+  "total_trip_time_in_minutes": 49,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-16T22:19:25Z"
+  },
+  "driver_rating": 2,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd53c"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd293"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27f"
+  },
+  "pickup_location": {
+    "building_number": 5,
+    "street": "Karolann Ville",
+    "city": "London",
+    "pincode": "X1F3J"
+  },
+  "drop_location": {
+    "building_number": 8,
+    "street": "Zoe Cliffs",
+    "city": "London",
+    "pincode": "0YB0X"
+  },
+  "no_of_passengers": 2,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd53d"
+    }
+  },
+  "service_fees": {
+    "amount": 57,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd53e"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd53f"
+    }
+  },
+  "total_amount": {
+    "amount": 70,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd540"
+    }
+  },
+  "trip_distance": 16,
+  "waiting_time_in_minutes": 15,
+  "total_trip_time_in_minutes": 43,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-16T11:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd523"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd294"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd280"
+  },
+  "pickup_location": {
+    "building_number": 3,
+    "street": "Karl Fall",
+    "city": "London",
+    "pincode": "2P862"
+  },
+  "drop_location": {
+    "building_number": 10,
+    "street": "Marquardt Fort",
+    "city": "London",
+    "pincode": "UTEKM"
+  },
+  "no_of_passengers": 3,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd524"
+    }
+  },
+  "service_fees": {
+    "amount": 56,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd525"
+    }
+  },
+  "tax_fees": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd526"
+    }
+  },
+  "total_amount": {
+    "amount": 70,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd527"
+    }
+  },
+  "trip_distance": 10,
+  "waiting_time_in_minutes": 14,
+  "total_trip_time_in_minutes": 38,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-16T13:19:25Z"
+  },
+  "driver_rating": 2,
+  "operator_rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd564"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd293"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27f"
+  },
+  "pickup_location": {
+    "building_number": 10,
+    "street": "Thompson Passage",
+    "city": "London",
+    "pincode": "RIH67"
+  },
+  "drop_location": {
+    "building_number": 5,
+    "street": "Garrison Flat",
+    "city": "London",
+    "pincode": "H32HK"
+  },
+  "no_of_passengers": 3,
+  "status": "cancelled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd565"
+    }
+  },
+  "service_fees": {
+    "amount": 56,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd566"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd567"
+    }
+  },
+  "total_amount": {
+    "amount": 72,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd568"
+    }
+  },
+  "trip_distance": 19,
+  "waiting_time_in_minutes": 14,
+  "total_trip_time_in_minutes": 30,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-16T00:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd55f"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd291"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27d"
+  },
+  "pickup_location": {
+    "building_number": 8,
+    "street": "Ottilie Cliff",
+    "city": "London",
+    "pincode": "LXR34"
+  },
+  "drop_location": {
+    "building_number": 5,
+    "street": "Clementine Track",
+    "city": "London",
+    "pincode": "7I533"
+  },
+  "no_of_passengers": 2,
+  "status": "unfullfilled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd560"
+    }
+  },
+  "service_fees": {
+    "amount": 62,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd561"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd562"
+    }
+  },
+  "total_amount": {
+    "amount": 77,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd563"
+    }
+  },
+  "trip_distance": 15,
+  "waiting_time_in_minutes": 10,
+  "total_trip_time_in_minutes": 32,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-16T15:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd569"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd326"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd292"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27e"
+  },
+  "pickup_location": {
+    "building_number": 8,
+    "street": "Berry Points",
+    "city": "London",
+    "pincode": "UIPMM"
+  },
+  "drop_location": {
+    "building_number": 6,
+    "street": "Kamron Hollow",
+    "city": "London",
+    "pincode": "L481E"
+  },
+  "no_of_passengers": 3,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd56a"
+    }
+  },
+  "service_fees": {
+    "amount": 86,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd56b"
+    }
+  },
+  "tax_fees": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd56c"
+    }
+  },
+  "total_amount": {
+    "amount": 98,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd56d"
+    }
+  },
+  "trip_distance": 13,
+  "waiting_time_in_minutes": 14,
+  "total_trip_time_in_minutes": 49,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-16T00:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd537"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd291"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27d"
+  },
+  "pickup_location": {
+    "building_number": 5,
+    "street": "Greenholt Square",
+    "city": "London",
+    "pincode": "EVSWH"
+  },
+  "drop_location": {
+    "building_number": 2,
+    "street": "Alicia Cape",
+    "city": "London",
+    "pincode": "T9H0F"
+  },
+  "no_of_passengers": 3,
+  "status": "completed",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd538"
+    }
+  },
+  "service_fees": {
+    "amount": 63,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd539"
+    }
+  },
+  "tax_fees": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd53a"
+    }
+  },
+  "total_amount": {
+    "amount": 79,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd53b"
+    }
+  },
+  "trip_distance": 13,
+  "waiting_time_in_minutes": 11,
+  "total_trip_time_in_minutes": 48,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-16T21:19:25Z"
+  },
+  "driver_rating": 2,
+  "operator_rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd59b"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd294"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd280"
+  },
+  "pickup_location": {
+    "building_number": 9,
+    "street": "McClure Lock",
+    "city": "London",
+    "pincode": "E8IY4"
+  },
+  "drop_location": {
+    "building_number": 4,
+    "street": "Laura Villages",
+    "city": "London",
+    "pincode": "DLPKQ"
+  },
+  "no_of_passengers": 2,
+  "status": "completed",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd59c"
+    }
+  },
+  "service_fees": {
+    "amount": 97,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd59d"
+    }
+  },
+  "tax_fees": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd59e"
+    }
+  },
+  "total_amount": {
+    "amount": 114,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd59f"
+    }
+  },
+  "trip_distance": 20,
+  "waiting_time_in_minutes": 12,
+  "total_trip_time_in_minutes": 34,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-16T01:19:25Z"
+  },
+  "driver_rating": 4,
+  "operator_rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd578"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd297"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd283"
+  },
+  "pickup_location": {
+    "building_number": 5,
+    "street": "Rosemary Wall",
+    "city": "London",
+    "pincode": "0HT5D"
+  },
+  "drop_location": {
+    "building_number": 9,
+    "street": "Crist Ridge",
+    "city": "London",
+    "pincode": "FJVKB"
+  },
+  "no_of_passengers": 2,
+  "status": "pending",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd579"
+    }
+  },
+  "service_fees": {
+    "amount": 69,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd57a"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd57b"
+    }
+  },
+  "total_amount": {
+    "amount": 85,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd57c"
+    }
+  },
+  "trip_distance": 19,
+  "waiting_time_in_minutes": 13,
+  "total_trip_time_in_minutes": 30,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-16T02:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd56e"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd290"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27c"
+  },
+  "pickup_location": {
+    "building_number": 3,
+    "street": "Bechtelar Roads",
+    "city": "London",
+    "pincode": "CSD6Y"
+  },
+  "drop_location": {
+    "building_number": 4,
+    "street": "Verda Shores",
+    "city": "London",
+    "pincode": "VFQ12"
+  },
+  "no_of_passengers": 3,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd56f"
+    }
+  },
+  "service_fees": {
+    "amount": 59,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd570"
+    }
+  },
+  "tax_fees": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd571"
+    }
+  },
+  "total_amount": {
+    "amount": 72,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd572"
+    }
+  },
+  "trip_distance": 16,
+  "waiting_time_in_minutes": 14,
+  "total_trip_time_in_minutes": 34,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-16T19:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd587"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd291"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27d"
+  },
+  "pickup_location": {
+    "building_number": 10,
+    "street": "Torey Lake",
+    "city": "London",
+    "pincode": "S2I69"
+  },
+  "drop_location": {
+    "building_number": 6,
+    "street": "Jovani Cape",
+    "city": "London",
+    "pincode": "UGS1D"
+  },
+  "no_of_passengers": 3,
+  "status": "completed",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd588"
+    }
+  },
+  "service_fees": {
+    "amount": 91,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd589"
+    }
+  },
+  "tax_fees": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd58a"
+    }
+  },
+  "total_amount": {
+    "amount": 106,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd58b"
+    }
+  },
+  "trip_distance": 20,
+  "waiting_time_in_minutes": 19,
+  "total_trip_time_in_minutes": 30,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-16T16:19:25Z"
+  },
+  "driver_rating": 4,
+  "operator_rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd57d"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28e"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27a"
+  },
+  "pickup_location": {
+    "building_number": 6,
+    "street": "Wehner Coves",
+    "city": "London",
+    "pincode": "XCCT6"
+  },
+  "drop_location": {
+    "building_number": 2,
+    "street": "Naomi Groves",
+    "city": "London",
+    "pincode": "FGJPR"
+  },
+  "no_of_passengers": 2,
+  "status": "cancelled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd57e"
+    }
+  },
+  "service_fees": {
+    "amount": 95,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd57f"
+    }
+  },
+  "tax_fees": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd580"
+    }
+  },
+  "total_amount": {
+    "amount": 111,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd581"
+    }
+  },
+  "trip_distance": 12,
+  "waiting_time_in_minutes": 15,
+  "total_trip_time_in_minutes": 30,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-16T06:19:25Z"
+  },
+  "driver_rating": 2,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd582"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd28f"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27b"
+  },
+  "pickup_location": {
+    "building_number": 3,
+    "street": "Kenneth Run",
+    "city": "London",
+    "pincode": "88C0P"
+  },
+  "drop_location": {
+    "building_number": 5,
+    "street": "Cyril Oval",
+    "city": "London",
+    "pincode": "7149B"
+  },
+  "no_of_passengers": 3,
+  "status": "unfullfilled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 7,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd583"
+    }
+  },
+  "service_fees": {
+    "amount": 57,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd584"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd585"
+    }
+  },
+  "total_amount": {
+    "amount": 70,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd586"
+    }
+  },
+  "trip_distance": 18,
+  "waiting_time_in_minutes": 15,
+  "total_trip_time_in_minutes": 53,
+  "on_peak": false,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-16T12:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd573"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd294"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd280"
+  },
+  "pickup_location": {
+    "building_number": 1,
+    "street": "Denesik Ville",
+    "city": "London",
+    "pincode": "CPRVQ"
+  },
+  "drop_location": {
+    "building_number": 4,
+    "street": "Hyatt Valley",
+    "city": "London",
+    "pincode": "XMBLH"
+  },
+  "no_of_passengers": 3,
+  "status": "in-progress",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd574"
+    }
+  },
+  "service_fees": {
+    "amount": 93,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd575"
+    }
+  },
+  "tax_fees": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd576"
+    }
+  },
+  "total_amount": {
+    "amount": 108,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd577"
+    }
+  },
+  "trip_distance": 17,
+  "waiting_time_in_minutes": 18,
+  "total_trip_time_in_minutes": 40,
+  "on_peak": false,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-16T07:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd591"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd326"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd292"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27e"
+  },
+  "pickup_location": {
+    "building_number": 4,
+    "street": "Stiedemann Burgs",
+    "city": "London",
+    "pincode": "0L26T"
+  },
+  "drop_location": {
+    "building_number": 2,
+    "street": "Ofelia Island",
+    "city": "London",
+    "pincode": "64CQJ"
+  },
+  "no_of_passengers": 2,
+  "status": "unfullfilled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd592"
+    }
+  },
+  "service_fees": {
+    "amount": 52,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd593"
+    }
+  },
+  "tax_fees": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd594"
+    }
+  },
+  "total_amount": {
+    "amount": 71,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd595"
+    }
+  },
+  "trip_distance": 13,
+  "waiting_time_in_minutes": 12,
+  "total_trip_time_in_minutes": 55,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-16T21:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd5a0"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd297"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd283"
+  },
+  "pickup_location": {
+    "building_number": 2,
+    "street": "Reginald Street",
+    "city": "London",
+    "pincode": "89OHI"
+  },
+  "drop_location": {
+    "building_number": 10,
+    "street": "Marcos Valleys",
+    "city": "London",
+    "pincode": "GOLSU"
+  },
+  "no_of_passengers": 3,
+  "status": "unfullfilled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd5a1"
+    }
+  },
+  "service_fees": {
+    "amount": 64,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd5a2"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd5a3"
+    }
+  },
+  "total_amount": {
+    "amount": 80,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd5a4"
+    }
+  },
+  "trip_distance": 17,
+  "waiting_time_in_minutes": 13,
+  "total_trip_time_in_minutes": 44,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-16T20:19:25Z"
+  },
+  "driver_rating": 2,
+  "operator_rating": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd596"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd290"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27c"
+  },
+  "pickup_location": {
+    "building_number": 10,
+    "street": "Deckow Spurs",
+    "city": "London",
+    "pincode": "IH4LH"
+  },
+  "drop_location": {
+    "building_number": 9,
+    "street": "Gleason Rapid",
+    "city": "London",
+    "pincode": "G6QNT"
+  },
+  "no_of_passengers": 3,
+  "status": "pending",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd597"
+    }
+  },
+  "service_fees": {
+    "amount": 86,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd598"
+    }
+  },
+  "tax_fees": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd599"
+    }
+  },
+  "total_amount": {
+    "amount": 101,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd59a"
+    }
+  },
+  "trip_distance": 14,
+  "waiting_time_in_minutes": 19,
+  "total_trip_time_in_minutes": 58,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-16T14:19:25Z"
+  },
+  "driver_rating": 1,
+  "operator_rating": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd58c"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd293"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27f"
+  },
+  "pickup_location": {
+    "building_number": 5,
+    "street": "Dicki Manor",
+    "city": "London",
+    "pincode": "8ME9D"
+  },
+  "drop_location": {
+    "building_number": 7,
+    "street": "Judah Oval",
+    "city": "London",
+    "pincode": "YCYXQ"
+  },
+  "no_of_passengers": 3,
+  "status": "pending",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd58d"
+    }
+  },
+  "service_fees": {
+    "amount": 53,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd58e"
+    }
+  },
+  "tax_fees": {
+    "amount": 10,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd58f"
+    }
+  },
+  "total_amount": {
+    "amount": 72,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd590"
+    }
+  },
+  "trip_distance": 16,
+  "waiting_time_in_minutes": 19,
+  "total_trip_time_in_minutes": 30,
+  "on_peak": false,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-16T01:19:25Z"
+  },
+  "driver_rating": 5,
+  "operator_rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd528"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd297"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd283"
+  },
+  "pickup_location": {
+    "building_number": 1,
+    "street": "Thiel Ville",
+    "city": "London",
+    "pincode": "4K0QC"
+  },
+  "drop_location": {
+    "building_number": 2,
+    "street": "Naomi Forges",
+    "city": "London",
+    "pincode": "ZDYFW"
+  },
+  "no_of_passengers": 3,
+  "status": "completed",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd529"
+    }
+  },
+  "service_fees": {
+    "amount": 88,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd52a"
+    }
+  },
+  "tax_fees": {
+    "amount": 8,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd52b"
+    }
+  },
+  "total_amount": {
+    "amount": 102,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd52c"
+    }
+  },
+  "trip_distance": 12,
+  "waiting_time_in_minutes": 16,
+  "total_trip_time_in_minutes": 59,
+  "on_peak": true,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-16T19:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd541"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd326"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd292"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27e"
+  },
+  "pickup_location": {
+    "building_number": 6,
+    "street": "Wehner Mall",
+    "city": "London",
+    "pincode": "ZQBS2"
+  },
+  "drop_location": {
+    "building_number": 10,
+    "street": "Velva Lakes",
+    "city": "London",
+    "pincode": "LJK33"
+  },
+  "no_of_passengers": 3,
+  "status": "cancelled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd542"
+    }
+  },
+  "service_fees": {
+    "amount": 76,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd543"
+    }
+  },
+  "tax_fees": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd544"
+    }
+  },
+  "total_amount": {
+    "amount": 91,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd545"
+    }
+  },
+  "trip_distance": 19,
+  "waiting_time_in_minutes": 19,
+  "total_trip_time_in_minutes": 45,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-16T19:19:25Z"
+  },
+  "driver_rating": 2,
+  "operator_rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd4f6"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd290"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd27c"
+  },
+  "pickup_location": {
+    "building_number": 9,
+    "street": "Esmeralda Ridge",
+    "city": "London",
+    "pincode": "J8OXO"
+  },
+  "drop_location": {
+    "building_number": 10,
+    "street": "Ernser Forks",
+    "city": "London",
+    "pincode": "J90PK"
+  },
+  "no_of_passengers": 3,
+  "status": "unfullfilled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4f7"
+    }
+  },
+  "service_fees": {
+    "amount": 98,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4f8"
+    }
+  },
+  "tax_fees": {
+    "amount": 6,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4f9"
+    }
+  },
+  "total_amount": {
+    "amount": 113,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4fa"
+    }
+  },
+  "trip_distance": 15,
+  "waiting_time_in_minutes": 13,
+  "total_trip_time_in_minutes": 36,
+  "on_peak": true,
+  "is_regular_booking": false,
+  "booking_date": {
+    "$date": "2022-12-16T06:19:25Z"
+  },
+  "driver_rating": 4,
+  "operator_rating": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bdd975a32a888bd4d3"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "vehicle_id": {
+    "$oid": "639be3bcd975a32a888bd294"
+  },
+  "driver_id": {
+    "$oid": "639be3bcd975a32a888bd280"
+  },
+  "pickup_location": {
+    "building_number": 1,
+    "street": "Lenore Stravenue",
+    "city": "London",
+    "pincode": "BRFWO"
+  },
+  "drop_location": {
+    "building_number": 4,
+    "street": "Schowalter Springs",
+    "city": "London",
+    "pincode": "V8UUV"
+  },
+  "no_of_passengers": 3,
+  "status": "cancelled",
+  "remarks": "NA",
+  "waiting_time_charge": {
+    "amount": 5,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4d4"
+    }
+  },
+  "service_fees": {
+    "amount": 97,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4d5"
+    }
+  },
+  "tax_fees": {
+    "amount": 9,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4d6"
+    }
+  },
+  "total_amount": {
+    "amount": 111,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4d7"
+    }
+  },
+  "trip_distance": 16,
+  "waiting_time_in_minutes": 19,
+  "total_trip_time_in_minutes": 58,
+  "on_peak": false,
+  "is_regular_booking": true,
+  "booking_date": {
+    "$date": "2022-12-09T14:19:25Z"
+  },
+  "driver_rating": 3,
+  "operator_rating": 1,
+  "__v": 0
+}]

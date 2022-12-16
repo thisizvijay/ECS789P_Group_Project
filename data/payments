@@ -1,0 +1,2305 @@
+[{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd61d"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "cash_machine_id": "T0RWMTV6SG",
+  "transaction_reference": "NV7NFVU0JO21FTDB",
+  "card": "2493XXXXXXXX1953",
+  "paid_amount": {
+    "amount": 91,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd351"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "pending",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T00:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd625"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "cash_machine_id": "BIXXP4PRJZ",
+  "transaction_reference": "PPD1BNIR37JXBGXO",
+  "card": "9015XXXXXXXX2933",
+  "paid_amount": {
+    "amount": 106,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd36f"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "pending",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T15:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd61f"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "cash_machine_id": "IR8W0S7ZPP",
+  "transaction_reference": "UP8HGHU14MOLCLL3",
+  "card": "9124XXXXXXXX5281",
+  "paid_amount": {
+    "amount": 109,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd356"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "completed",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T16:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd641"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "cash_machine_id": "F87VC27UXB",
+  "transaction_reference": "W5FBSP65M97UL6C0",
+  "card": "8921XXXXXXXX7952",
+  "paid_amount": {
+    "amount": 74,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3bf"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T07:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd63b"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "cash_machine_id": "M2X36IEIGD",
+  "transaction_reference": "ZBN4YSJJNFW2Q4NF",
+  "card": "8906XXXXXXXX5315",
+  "paid_amount": {
+    "amount": 99,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3b0"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T04:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd633"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "cash_machine_id": "EE1Z1NKH0F",
+  "transaction_reference": "VJQP4WW0OOIHG5ZG",
+  "card": "6517XXXXXXXX1992",
+  "paid_amount": {
+    "amount": 95,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd392"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "pending",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T14:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd62f"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "cash_machine_id": "Z0PQ2GQB3G",
+  "transaction_reference": "6UII7FM83JVVVIEJ",
+  "card": "3761XXXXXXXX8284",
+  "paid_amount": {
+    "amount": 73,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd388"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "pending",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T00:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd635"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "cash_machine_id": "5I9TLO9POE",
+  "transaction_reference": "3YL8Y2OWVZGJSCL1",
+  "card": "4210XXXXXXXX4106",
+  "paid_amount": {
+    "amount": 74,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd397"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "completed",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T14:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd629"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "cash_machine_id": "L1JKXQJE4S",
+  "transaction_reference": "B52CPJBRO98YB9M8",
+  "card": "8825XXXXXXXX7482",
+  "paid_amount": {
+    "amount": 82,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd379"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "pending",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T00:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd637"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "cash_machine_id": "KCYWF2VJWU",
+  "transaction_reference": "1BRQW2TXLQDLPW7R",
+  "card": "1995XXXXXXXX5128",
+  "paid_amount": {
+    "amount": 96,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3a1"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "unfullfilled",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T19:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd62d"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "cash_machine_id": "JHVYSUESB6",
+  "transaction_reference": "ON5WSFJTYPQ8LWL8",
+  "card": "1150XXXXXXXX3103",
+  "paid_amount": {
+    "amount": 98,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd383"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "completed",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T07:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd631"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd326"
+  },
+  "cash_machine_id": "45SS6RVNRB",
+  "transaction_reference": "T5HVR973S1URQ46O",
+  "card": "1764XXXXXXXX1249",
+  "paid_amount": {
+    "amount": 67,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd38d"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T01:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd62b"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "cash_machine_id": "2FGU3I4GON",
+  "transaction_reference": "0DT3IP10QNGPKFH0",
+  "card": "3582XXXXXXXX7214",
+  "paid_amount": {
+    "amount": 94,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd37e"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T09:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd639"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "cash_machine_id": "DUSU41UO3K",
+  "transaction_reference": "NL5FH9NU3QC4Z2NG",
+  "card": "8979XXXXXXXX3519",
+  "paid_amount": {
+    "amount": 85,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3a6"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T19:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd623"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "cash_machine_id": "JQM0UPH1EW",
+  "transaction_reference": "82YL6IV4FDUKR1WY",
+  "card": "7841XXXXXXXX7287",
+  "paid_amount": {
+    "amount": 99,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd36a"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "unfullfilled",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T16:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd63f"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "cash_machine_id": "EV24WGD136",
+  "transaction_reference": "0EMQ8658526ZGCYD",
+  "card": "3499XXXXXXXX2184",
+  "paid_amount": {
+    "amount": 118,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3ba"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "unfullfilled",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T23:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd621"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "cash_machine_id": "VX6Q77X9IL",
+  "transaction_reference": "S900GJL0Y22Q7EQP",
+  "card": "4364XXXXXXXX3441",
+  "paid_amount": {
+    "amount": 84,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd35b"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "unfullfilled",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T00:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd63d"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd326"
+  },
+  "cash_machine_id": "RHZURQBWWX",
+  "transaction_reference": "4PL4XR5T71U5993S",
+  "card": "9197XXXXXXXX1034",
+  "paid_amount": {
+    "amount": 94,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3b5"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "completed",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T13:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd627"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "cash_machine_id": "UDXXB0WZ9Q",
+  "transaction_reference": "5O171O6XV4LG4ICM",
+  "card": "7915XXXXXXXX2470",
+  "paid_amount": {
+    "amount": 82,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd374"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "unfullfilled",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T10:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd643"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "cash_machine_id": "FT9RD1RW46",
+  "transaction_reference": "NYBMP50LX5T0FTL3",
+  "card": "5059XXXXXXXX4733",
+  "paid_amount": {
+    "amount": 73,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3c4"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T08:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd649"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "cash_machine_id": "XHQWIN8U54",
+  "transaction_reference": "M00XU31LJDLL97SL",
+  "card": "4336XXXXXXXX7906",
+  "paid_amount": {
+    "amount": 111,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3d3"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T17:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd661"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "cash_machine_id": "YYNV588SV3",
+  "transaction_reference": "L589KX9YWEJ57M22",
+  "card": "5016XXXXXXXX4311",
+  "paid_amount": {
+    "amount": 91,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd41e"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T19:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd64f"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "cash_machine_id": "DGDG7SLO1X",
+  "transaction_reference": "ZILHTJRPG34IOZNG",
+  "card": "4141XXXXXXXX3875",
+  "paid_amount": {
+    "amount": 100,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3e7"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "pending",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T20:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd651"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "cash_machine_id": "W1NKOCE3QU",
+  "transaction_reference": "0WHYVX73YG705Q70",
+  "card": "6131XXXXXXXX1360",
+  "paid_amount": {
+    "amount": 99,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3f1"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "unfullfilled",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T17:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd64d"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "cash_machine_id": "UNVVYQFK68",
+  "transaction_reference": "8T8GBK6MODS8U5NF",
+  "card": "9868XXXXXXXX3271",
+  "paid_amount": {
+    "amount": 77,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3e2"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "pending",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T11:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd64b"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "cash_machine_id": "R4D3SI9FEU",
+  "transaction_reference": "SJTLIDSC34V2UKNJ",
+  "card": "4953XXXXXXXX4151",
+  "paid_amount": {
+    "amount": 79,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3d8"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T11:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd66f"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "cash_machine_id": "LB3IDJEN0W",
+  "transaction_reference": "Q4W5K2W544YLKGR4",
+  "card": "8217XXXXXXXX5919",
+  "paid_amount": {
+    "amount": 64,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd450"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "pending",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T05:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd66b"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "cash_machine_id": "EVU5879O30",
+  "transaction_reference": "V8KRZBTM0DZJ78KB",
+  "card": "6201XXXXXXXX6234",
+  "paid_amount": {
+    "amount": 67,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd441"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "completed",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T08:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd66d"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "cash_machine_id": "WDBMMNZLMQ",
+  "transaction_reference": "354PWXRFW89NE8N4",
+  "card": "7594XXXXXXXX1106",
+  "paid_amount": {
+    "amount": 87,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd446"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "pending",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T10:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd669"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "cash_machine_id": "D8X7S90SZY",
+  "transaction_reference": "T2S976ZHSW1NDP16",
+  "card": "6873XXXXXXXX8282",
+  "paid_amount": {
+    "amount": 88,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd437"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "unfullfilled",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T13:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd653"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "cash_machine_id": "MZXULP5PZM",
+  "transaction_reference": "6W7YXRJPXVHEXIVN",
+  "card": "8952XXXXXXXX8825",
+  "paid_amount": {
+    "amount": 86,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3f6"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T08:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd665"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "cash_machine_id": "OVORK4BNOR",
+  "transaction_reference": "99ECQKS9Q1UE574C",
+  "card": "4091XXXXXXXX5825",
+  "paid_amount": {
+    "amount": 93,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd428"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "unfullfilled",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T01:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd667"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd326"
+  },
+  "cash_machine_id": "MQO9XF7ZJV",
+  "transaction_reference": "J4EOLVT6EH2HE9XR",
+  "card": "1230XXXXXXXX8461",
+  "paid_amount": {
+    "amount": 104,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd42d"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "unfullfilled",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T19:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd657"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "cash_machine_id": "Z39DWIO16Y",
+  "transaction_reference": "GQRZQYVTUJ8T1E3F",
+  "card": "5676XXXXXXXX6224",
+  "paid_amount": {
+    "amount": 75,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd400"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "completed",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T13:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd663"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "cash_machine_id": "PFS67FSGEB",
+  "transaction_reference": "0NINY2G56KXOFYQB",
+  "card": "2069XXXXXXXX1073",
+  "paid_amount": {
+    "amount": 113,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd423"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "pending",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T22:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd65d"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "cash_machine_id": "FJ9XUS4P7Z",
+  "transaction_reference": "7J9TY5OQP15MUBTK",
+  "card": "1262XXXXXXXX6587",
+  "paid_amount": {
+    "amount": 87,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd414"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "completed",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T01:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd65f"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "cash_machine_id": "PVFJ6HM4IT",
+  "transaction_reference": "16WG94SG8G5XN0OH",
+  "card": "4245XXXXXXXX9675",
+  "paid_amount": {
+    "amount": 112,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd419"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "unfullfilled",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T09:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd659"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "cash_machine_id": "7G4WKMF6LG",
+  "transaction_reference": "3C0HNX5F153BNZLC",
+  "card": "5345XXXXXXXX1050",
+  "paid_amount": {
+    "amount": 95,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd40a"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "completed",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T18:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd65b"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "cash_machine_id": "HB683FUU9S",
+  "transaction_reference": "WGPKHYL34EKPU0KW",
+  "card": "9997XXXXXXXX1382",
+  "paid_amount": {
+    "amount": 94,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd40f"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T23:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd655"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "cash_machine_id": "HFDVNYUOOU",
+  "transaction_reference": "E1B0KHLZDIMVBZSP",
+  "card": "3200XXXXXXXX1437",
+  "paid_amount": {
+    "amount": 108,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3fb"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "pending",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T13:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd671"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd326"
+  },
+  "cash_machine_id": "TKV7DBMJCC",
+  "transaction_reference": "98CXX5XX6C5W7MJB",
+  "card": "1041XXXXXXXX5422",
+  "paid_amount": {
+    "amount": 68,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd455"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T13:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd673"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "cash_machine_id": "N2WKOXYES8",
+  "transaction_reference": "TG91V6MLQX3QHWJI",
+  "card": "6236XXXXXXXX4894",
+  "paid_amount": {
+    "amount": 96,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd45a"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "unfullfilled",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T00:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd675"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "cash_machine_id": "Q2R4ZO9W9I",
+  "transaction_reference": "440TE5XIQMCLLVF9",
+  "card": "2352XXXXXXXX6740",
+  "paid_amount": {
+    "amount": 87,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd45f"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "completed",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T14:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd67d"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "cash_machine_id": "L677DDW17D",
+  "transaction_reference": "RMXT0G66FQ6B5J7X",
+  "card": "3310XXXXXXXX7260",
+  "paid_amount": {
+    "amount": 102,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd473"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T01:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd679"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "cash_machine_id": "OYYBUTCGZ0",
+  "transaction_reference": "JP8D65HKGU189KB5",
+  "card": "8358XXXXXXXX1555",
+  "paid_amount": {
+    "amount": 80,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd469"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "pending",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T20:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd677"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "cash_machine_id": "BGLSP9MEUT",
+  "transaction_reference": "QZWTGZRGGDG0NR48",
+  "card": "9065XXXXXXXX4216",
+  "paid_amount": {
+    "amount": 68,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd464"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "completed",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T04:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd67b"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "cash_machine_id": "7ICT1SJVR5",
+  "transaction_reference": "6HLY1OBHZX6GKPL1",
+  "card": "9910XXXXXXXX2565",
+  "paid_amount": {
+    "amount": 77,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd46e"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T10:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd67f"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "cash_machine_id": "6BP8X47BFD",
+  "transaction_reference": "ORO86VOHD70PKTYB",
+  "card": "7392XXXXXXXX3951",
+  "paid_amount": {
+    "amount": 110,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd478"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "completed",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T05:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd689"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "cash_machine_id": "XGW1ZL6CUL",
+  "transaction_reference": "LW2VZLXPL4MNQVWV",
+  "card": "9253XXXXXXXX1363",
+  "paid_amount": {
+    "amount": 83,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd496"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "completed",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T06:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd685"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "cash_machine_id": "U4X96F2904",
+  "transaction_reference": "MUJSTUWFKCT5B2V9",
+  "card": "8912XXXXXXXX5585",
+  "paid_amount": {
+    "amount": 95,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd48c"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "unfullfilled",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T08:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd68f"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "cash_machine_id": "Y2BYT12J85",
+  "transaction_reference": "5RR2CIHBM2JO4N2L",
+  "card": "1251XXXXXXXX8695",
+  "paid_amount": {
+    "amount": 103,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4aa"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T07:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd687"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "cash_machine_id": "UL9UR1HYGX",
+  "transaction_reference": "VCW7GVP9XST2MBIN",
+  "card": "8752XXXXXXXX2153",
+  "paid_amount": {
+    "amount": 82,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd491"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T08:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd68b"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "cash_machine_id": "UX898DVXIZ",
+  "transaction_reference": "5C2J9L2K4EXSHST6",
+  "card": "6229XXXXXXXX6397",
+  "paid_amount": {
+    "amount": 95,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd49b"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "completed",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T16:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd683"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "cash_machine_id": "GM39FOWB8E",
+  "transaction_reference": "4JIZM10CLR6WHFZO",
+  "card": "3919XXXXXXXX6841",
+  "paid_amount": {
+    "amount": 81,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd487"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "completed",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T07:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd68d"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "cash_machine_id": "EKJ0CW3VQR",
+  "transaction_reference": "S8DNSD60NKB496HU",
+  "card": "5825XXXXXXXX5802",
+  "paid_amount": {
+    "amount": 102,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4a0"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "pending",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T00:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd681"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "cash_machine_id": "S6DRJRYJZZ",
+  "transaction_reference": "1QRJHVFQMKF6FRTF",
+  "card": "3898XXXXXXXX1706",
+  "paid_amount": {
+    "amount": 69,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd482"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "pending",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T18:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd69d"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "cash_machine_id": "5633B3J4NH",
+  "transaction_reference": "X00F58GYCTR52Y6W",
+  "card": "2700XXXXXXXX8703",
+  "paid_amount": {
+    "amount": 90,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4eb"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T16:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd697"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "cash_machine_id": "FG4VCHCIC1",
+  "transaction_reference": "9IXS5X190J1EE84T",
+  "card": "3861XXXXXXXX5913",
+  "paid_amount": {
+    "amount": 73,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4c3"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "completed",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T08:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd699"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "cash_machine_id": "WQPOYYP82G",
+  "transaction_reference": "F1E4TS7H3HKXR7KY",
+  "card": "1104XXXXXXXX1647",
+  "paid_amount": {
+    "amount": 70,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4dc"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "pending",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T05:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd693"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "cash_machine_id": "NVS722NWJY",
+  "transaction_reference": "89RG1N8DWBGBN6JO",
+  "card": "1309XXXXXXXX9308",
+  "paid_amount": {
+    "amount": 83,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4b9"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "unfullfilled",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T06:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd695"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "cash_machine_id": "B1Z5177TUM",
+  "transaction_reference": "1DYQGKNCMFUH2NI0",
+  "card": "3957XXXXXXXX8652",
+  "paid_amount": {
+    "amount": 74,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4be"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "pending",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T01:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd69b"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "cash_machine_id": "CRDUK4FLGY",
+  "transaction_reference": "CLTH32CDF9N1306Y",
+  "card": "7278XXXXXXXX2641",
+  "paid_amount": {
+    "amount": 88,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4e1"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "pending",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T04:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd691"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "cash_machine_id": "RD4W8YLZW7",
+  "transaction_reference": "WTUG677P66DPGFSH",
+  "card": "7307XXXXXXXX4052",
+  "paid_amount": {
+    "amount": 110,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4b4"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "unfullfilled",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-09T10:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd69f"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "cash_machine_id": "P4B3JK09DJ",
+  "transaction_reference": "OB04GJDXP7I26FL9",
+  "card": "4460XXXXXXXX8918",
+  "paid_amount": {
+    "amount": 85,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4f0"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T20:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6a7"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "cash_machine_id": "5PQ5MBTN1Q",
+  "transaction_reference": "XRFXMG90CG5N148M",
+  "card": "8587XXXXXXXX3929",
+  "paid_amount": {
+    "amount": 74,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd509"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "pending",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T03:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6a1"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd326"
+  },
+  "cash_machine_id": "0RUB47G529",
+  "transaction_reference": "XTQKFQ0DV82RMW9U",
+  "card": "2733XXXXXXXX9959",
+  "paid_amount": {
+    "amount": 82,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4f5"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "completed",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T16:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6a5"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "cash_machine_id": "J2I0L4GTNL",
+  "transaction_reference": "8QHU9XFUI0H3H0NH",
+  "card": "8572XXXXXXXX7853",
+  "paid_amount": {
+    "amount": 86,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd504"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "completed",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T21:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6a3"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "cash_machine_id": "LKT4CNO5J8",
+  "transaction_reference": "DNT4KSRJ9PUPW51Y",
+  "card": "9311XXXXXXXX7147",
+  "paid_amount": {
+    "amount": 113,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd4fa"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "unfullfilled",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T06:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6ab"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "cash_machine_id": "UYR03X3C8H",
+  "transaction_reference": "CUZQN1RJG0OW4MG8",
+  "card": "7651XXXXXXXX9706",
+  "paid_amount": {
+    "amount": 72,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd513"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "unfullfilled",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T02:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6b1"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "cash_machine_id": "PRHWRSNI07",
+  "transaction_reference": "GKBCSS8IKHI36GLP",
+  "card": "3986XXXXXXXX3543",
+  "paid_amount": {
+    "amount": 70,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd527"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T13:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6af"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "cash_machine_id": "YGPJGKL7YZ",
+  "transaction_reference": "G3XIWLF0KUFR6P4I",
+  "card": "5860XXXXXXXX2593",
+  "paid_amount": {
+    "amount": 101,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd522"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T00:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6ad"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "cash_machine_id": "NRIFGT0X71",
+  "transaction_reference": "881NNW5E17LTDDFE",
+  "card": "6730XXXXXXXX5889",
+  "paid_amount": {
+    "amount": 95,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd518"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T01:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6a9"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "cash_machine_id": "XSSKJD679L",
+  "transaction_reference": "2UXFCQBTXO07GU51",
+  "card": "7251XXXXXXXX9711",
+  "paid_amount": {
+    "amount": 91,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd50e"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "completed",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T06:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6b3"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "cash_machine_id": "2EXG2MRW14",
+  "transaction_reference": "UVH46CSWSN2PURIQ",
+  "card": "8126XXXXXXXX7825",
+  "paid_amount": {
+    "amount": 102,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd52c"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "completed",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T19:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6b7"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "cash_machine_id": "8N1VL0QDRV",
+  "transaction_reference": "79HDF4P7U54X3MJ0",
+  "card": "6035XXXXXXXX3977",
+  "paid_amount": {
+    "amount": 67,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd536"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "unfullfilled",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T17:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6b5"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "cash_machine_id": "WGVS1C2MDE",
+  "transaction_reference": "IMU8WCYYGJ51U0P6",
+  "card": "8376XXXXXXXX4969",
+  "paid_amount": {
+    "amount": 105,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd531"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "pending",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T00:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6b9"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "cash_machine_id": "V9297IF2YK",
+  "transaction_reference": "V5XQQO1WV0CC22NC",
+  "card": "2845XXXXXXXX5193",
+  "paid_amount": {
+    "amount": 79,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd53b"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "completed",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T21:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6bd"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "cash_machine_id": "5TO78NHRV4",
+  "transaction_reference": "G257YWLOZMTTV290",
+  "card": "1235XXXXXXXX6810",
+  "paid_amount": {
+    "amount": 114,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd54a"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T22:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6bb"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "cash_machine_id": "SDS89NVMJ4",
+  "transaction_reference": "SB355HF3KXTHBI6J",
+  "card": "8696XXXXXXXX6317",
+  "paid_amount": {
+    "amount": 70,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd540"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T11:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6bf"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "cash_machine_id": "FISUILSKMT",
+  "transaction_reference": "Y89NLN488KLBCKTD",
+  "card": "3851XXXXXXXX3645",
+  "paid_amount": {
+    "amount": 71,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd54f"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "unfullfilled",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T04:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6db"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "cash_machine_id": "BKDCZHFL77",
+  "transaction_reference": "HWUYZ8SIGSVZ5SMP",
+  "card": "5102XXXXXXXX1328",
+  "paid_amount": {
+    "amount": 80,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd5a4"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "unfullfilled",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T20:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6d5"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd326"
+  },
+  "cash_machine_id": "I6TSJZMXB5",
+  "transaction_reference": "GXV754M6SYCP6FER",
+  "card": "2626XXXXXXXX1053",
+  "paid_amount": {
+    "amount": 71,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd595"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "unfullfilled",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T21:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6cf"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "cash_machine_id": "R5OQW3U0G2",
+  "transaction_reference": "W7NPV9PBJ5U961GI",
+  "card": "6173XXXXXXXX8147",
+  "paid_amount": {
+    "amount": 70,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd586"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "unfullfilled",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T12:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6d3"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd324"
+  },
+  "cash_machine_id": "EJ1Q7JNWU4",
+  "transaction_reference": "SBOMS9UYIVSHIY9J",
+  "card": "6492XXXXXXXX3511",
+  "paid_amount": {
+    "amount": 72,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd590"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "pending",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T01:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6d9"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "cash_machine_id": "KE6ZK1BTUJ",
+  "transaction_reference": "RLSL6Z6B1X2PWYF3",
+  "card": "1092XXXXXXXX7385",
+  "paid_amount": {
+    "amount": 114,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd59f"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "completed",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T01:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6c7"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd326"
+  },
+  "cash_machine_id": "HIQTNPNP6M",
+  "transaction_reference": "RHWDVQ7VFS75FIB7",
+  "card": "7842XXXXXXXX8651",
+  "paid_amount": {
+    "amount": 98,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd56d"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T00:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd647"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "cash_machine_id": "8QPTM76R1W",
+  "transaction_reference": "BDY7LB1W2I3UEUBY",
+  "card": "7002XXXXXXXX4293",
+  "paid_amount": {
+    "amount": 109,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3ce"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "unfullfilled",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T09:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6cd"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "cash_machine_id": "R8B25UQ6K8",
+  "transaction_reference": "NFCJBR9NY8XB99JF",
+  "card": "2647XXXXXXXX8547",
+  "paid_amount": {
+    "amount": 85,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd57c"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "pending",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T02:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6d1"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "cash_machine_id": "88PVLVETIF",
+  "transaction_reference": "WNX2NLJRE67UKHOS",
+  "card": "4345XXXXXXXX4118",
+  "paid_amount": {
+    "amount": 106,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd58b"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "completed",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T16:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6d7"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "cash_machine_id": "YV3DXL4W6D",
+  "transaction_reference": "ZTNT776F3L7BODM1",
+  "card": "2374XXXXXXXX3099",
+  "paid_amount": {
+    "amount": 101,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd59a"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "pending",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T14:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6c1"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32b"
+  },
+  "cash_machine_id": "U1JC6LU772",
+  "transaction_reference": "EENI4CW85YTGEEVK",
+  "card": "8372XXXXXXXX4678",
+  "paid_amount": {
+    "amount": 65,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd554"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T04:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6c5"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd325"
+  },
+  "cash_machine_id": "DMQHBLLB56",
+  "transaction_reference": "EFWOW1R98W9M3GIU",
+  "card": "1268XXXXXXXX8933",
+  "paid_amount": {
+    "amount": 77,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd563"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "unfullfilled",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T15:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6c3"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd323"
+  },
+  "cash_machine_id": "WVXIODNTTZ",
+  "transaction_reference": "XQU3KOC10GKH9HWM",
+  "card": "7111XXXXXXXX8010",
+  "paid_amount": {
+    "amount": 79,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd55e"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "pending",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T02:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6cb"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd32a"
+  },
+  "cash_machine_id": "QDH3EZ3NUZ",
+  "transaction_reference": "JS18IIDRGS2Y4R9R",
+  "card": "3300XXXXXXXX5378",
+  "paid_amount": {
+    "amount": 108,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd577"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T07:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd645"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd322"
+  },
+  "cash_machine_id": "N6W6PEVMHO",
+  "transaction_reference": "9QP5P1HY5L566JVT",
+  "card": "5575XXXXXXXX7002",
+  "paid_amount": {
+    "amount": 71,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd3c9"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "unfullfilled",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-11-16T12:19:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bfd975a32a888bd6c9"
+  },
+  "client_id": {
+    "$oid": "639be3bdd975a32a888bd329"
+  },
+  "cash_machine_id": "J9JX84CP06",
+  "transaction_reference": "6064J0FQQMPVQORD",
+  "card": "2523XXXXXXXX2629",
+  "paid_amount": {
+    "amount": 72,
+    "currency": "GBP",
+    "_id": {
+      "$oid": "639be3bdd975a32a888bd572"
+    }
+  },
+  "type_of_transaction": "payment",
+  "status": "in-progress",
+  "refund": null,
+  "payment_date": {
+    "$date": "2022-12-16T19:19:25Z"
+  },
+  "__v": 0
+}]

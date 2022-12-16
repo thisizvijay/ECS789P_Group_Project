@@ -1,0 +1,481 @@
+[{
+  "_id": {
+    "$oid": "639be3bcd975a32a888bd2a2"
+  },
+  "full_name": "Adell Franey",
+  "gender": "Others",
+  "date_of_birth": {
+    "$date": "1996-01-20T15:22:43.500Z"
+  },
+  "email": "AdellFraney_Upton2@example.org",
+  "phone_number": "+44 684249651",
+  "operator_code": "GQV67",
+  "ni_number": "7SF4PFV1J",
+  "address": {
+    "street": "165,Mauricio Meadows",
+    "city": "London",
+    "pincode": "YEUBE"
+  },
+  "shift": {
+    "type": "first",
+    "working_hours": {
+      "start": 0,
+      "end": 7
+    }
+  },
+  "bank_account": {
+    "sort_code": "143932",
+    "account_number": "87100929"
+  },
+  "componensation": {
+    "type": "fixed",
+    "occurance": "monthly",
+    "amount": 1000,
+    "currency": "GBP"
+  },
+  "experience": [
+    {
+      "company_name": "Noobs- A Taxi Company",
+      "start_date": {
+        "$date": "2021-08-10T06:09:35.036Z"
+      },
+      "end_date": null,
+      "role": "Entry Level",
+      "blackmarks": null,
+      "ratings": 4
+    },
+    {
+      "company_name": "Tillman Inc",
+      "start_date": {
+        "$date": "2021-02-10T02:59:33.943Z"
+      },
+      "end_date": {
+        "$date": "2020-07-02T10:49:24.358Z"
+      },
+      "role": "Entry Level",
+      "blackmarks": null,
+      "ratings": 4
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bcd975a32a888bd2a5"
+  },
+  "full_name": "Pietro Swaniawski",
+  "gender": "Others",
+  "date_of_birth": {
+    "$date": "1996-11-19T16:00:15.953Z"
+  },
+  "email": "PietroSwaniawski_Gottlieb13@example.com",
+  "phone_number": "+44 031303410",
+  "operator_code": "MWS9W",
+  "ni_number": "2MERITJ94",
+  "address": {
+    "street": "6581,Jaida Ports",
+    "city": "London",
+    "pincode": "WQOFX"
+  },
+  "shift": {
+    "type": "third",
+    "working_hours": {
+      "start": 16,
+      "end": 23
+    }
+  },
+  "bank_account": {
+    "sort_code": "627171",
+    "account_number": "81351610"
+  },
+  "componensation": {
+    "type": "fixed",
+    "occurance": "monthly",
+    "amount": 1000,
+    "currency": "GBP"
+  },
+  "experience": [
+    {
+      "company_name": "Noobs- A Taxi Company",
+      "start_date": {
+        "$date": "2021-01-17T17:42:03.874Z"
+      },
+      "end_date": null,
+      "role": "Senior Level",
+      "blackmarks": null,
+      "ratings": 5
+    },
+    {
+      "company_name": "Dibbert Group",
+      "start_date": {
+        "$date": "2021-02-23T11:36:17.655Z"
+      },
+      "end_date": {
+        "$date": "2020-07-08T06:52:14.082Z"
+      },
+      "role": "Mid Level",
+      "blackmarks": null,
+      "ratings": 4
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bcd975a32a888bd2a3"
+  },
+  "full_name": "Jonathon Daugherty",
+  "gender": "Female",
+  "date_of_birth": {
+    "$date": "1975-12-24T05:02:09.542Z"
+  },
+  "email": "JonathonDaugherty.Barton11@example.com",
+  "phone_number": "+44 459158094",
+  "operator_code": "JM196",
+  "ni_number": "RMY3GQPSK",
+  "address": {
+    "street": "37886,Funk Trace",
+    "city": "London",
+    "pincode": "HWP0Y"
+  },
+  "shift": {
+    "type": "second",
+    "working_hours": {
+      "start": 8,
+      "end": 15
+    }
+  },
+  "bank_account": {
+    "sort_code": "327887",
+    "account_number": "77353154"
+  },
+  "componensation": {
+    "type": "fixed",
+    "occurance": "monthly",
+    "amount": 1000,
+    "currency": "GBP"
+  },
+  "experience": [
+    {
+      "company_name": "Noobs- A Taxi Company",
+      "start_date": {
+        "$date": "2021-07-28T11:25:25.225Z"
+      },
+      "end_date": null,
+      "role": "Entry Level",
+      "blackmarks": null,
+      "ratings": 5
+    },
+    {
+      "company_name": "Erdman Group",
+      "start_date": {
+        "$date": "2021-06-13T10:31:25.196Z"
+      },
+      "end_date": {
+        "$date": "2020-12-22T04:02:57.075Z"
+      },
+      "role": "Entry Level",
+      "blackmarks": null,
+      "ratings": 3
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bcd975a32a888bd2a8"
+  },
+  "full_name": "Jordan Morissette",
+  "gender": "Female",
+  "date_of_birth": {
+    "$date": "1981-10-26T19:29:34.028Z"
+  },
+  "email": "JordanMorissette_Nader86@example.org",
+  "phone_number": "+44 225732459",
+  "operator_code": "VHOF9",
+  "ni_number": "S13EZY4LH",
+  "address": {
+    "street": "3366,Feeney Passage",
+    "city": "London",
+    "pincode": "Q4UHB"
+  },
+  "shift": {
+    "type": "third",
+    "working_hours": {
+      "start": 16,
+      "end": 23
+    }
+  },
+  "bank_account": {
+    "sort_code": "366822",
+    "account_number": "64008801"
+  },
+  "componensation": {
+    "type": "fixed",
+    "occurance": "monthly",
+    "amount": 1000,
+    "currency": "GBP"
+  },
+  "experience": [
+    {
+      "company_name": "Noobs- A Taxi Company",
+      "start_date": {
+        "$date": "2021-10-17T14:14:15.842Z"
+      },
+      "end_date": null,
+      "role": "Senior Level",
+      "blackmarks": null,
+      "ratings": 4
+    },
+    {
+      "company_name": "Kuphal - Corkery",
+      "start_date": {
+        "$date": "2021-09-21T11:46:19.936Z"
+      },
+      "end_date": {
+        "$date": "2020-11-25T08:29:59.518Z"
+      },
+      "role": "Entry Level",
+      "blackmarks": null,
+      "ratings": 4
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bcd975a32a888bd2a4"
+  },
+  "full_name": "Bertrand Volkman",
+  "gender": "Others",
+  "date_of_birth": {
+    "$date": "1997-05-04T09:48:46.425Z"
+  },
+  "email": "BertrandVolkman73@example.com",
+  "phone_number": "+44 334349823",
+  "operator_code": "ILNU0",
+  "ni_number": "SC75UMQ94",
+  "address": {
+    "street": "4390,Lee Center",
+    "city": "London",
+    "pincode": "XE10I"
+  },
+  "shift": {
+    "type": "first",
+    "working_hours": {
+      "start": 0,
+      "end": 7
+    }
+  },
+  "bank_account": {
+    "sort_code": "756800",
+    "account_number": "71323592"
+  },
+  "componensation": {
+    "type": "fixed",
+    "occurance": "monthly",
+    "amount": 1000,
+    "currency": "GBP"
+  },
+  "experience": [
+    {
+      "company_name": "Noobs- A Taxi Company",
+      "start_date": {
+        "$date": "2021-04-09T13:31:19.088Z"
+      },
+      "end_date": null,
+      "role": "Expert Level",
+      "blackmarks": null,
+      "ratings": 4
+    },
+    {
+      "company_name": "King and Sons",
+      "start_date": {
+        "$date": "2020-04-09T20:54:36.203Z"
+      },
+      "end_date": {
+        "$date": "2020-05-03T13:46:03.695Z"
+      },
+      "role": "Entry Level",
+      "blackmarks": null,
+      "ratings": 5
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bcd975a32a888bd2a6"
+  },
+  "full_name": "Luna Skiles",
+  "gender": "Male",
+  "date_of_birth": {
+    "$date": "1971-12-29T08:04:20.520Z"
+  },
+  "email": "LunaSkiles41@example.org",
+  "phone_number": "+44 768206495",
+  "operator_code": "DTGW8",
+  "ni_number": "T8WSUEEWI",
+  "address": {
+    "street": "0505,Muller Squares",
+    "city": "London",
+    "pincode": "JXFC2"
+  },
+  "shift": {
+    "type": "second",
+    "working_hours": {
+      "start": 8,
+      "end": 15
+    }
+  },
+  "bank_account": {
+    "sort_code": "191384",
+    "account_number": "88105096"
+  },
+  "componensation": {
+    "type": "fixed",
+    "occurance": "monthly",
+    "amount": 1000,
+    "currency": "GBP"
+  },
+  "experience": [
+    {
+      "company_name": "Noobs- A Taxi Company",
+      "start_date": {
+        "$date": "2021-04-18T17:37:48.217Z"
+      },
+      "end_date": null,
+      "role": "Mid Level",
+      "blackmarks": null,
+      "ratings": 3
+    },
+    {
+      "company_name": "Wisozk - Heidenreich",
+      "start_date": {
+        "$date": "2020-11-25T16:51:26.279Z"
+      },
+      "end_date": {
+        "$date": "2020-04-18T03:12:27.868Z"
+      },
+      "role": "Mid Level",
+      "blackmarks": null,
+      "ratings": 5
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bcd975a32a888bd2a9"
+  },
+  "full_name": "Emery Nikolaus",
+  "gender": "Male",
+  "date_of_birth": {
+    "$date": "1981-04-11T01:21:46.374Z"
+  },
+  "email": "EmeryNikolaus.Hahn96@example.net",
+  "phone_number": "+44 677998373",
+  "operator_code": "PXRDG",
+  "ni_number": "TMFIXNZJP",
+  "address": {
+    "street": "02745,Mya Parkway",
+    "city": "London",
+    "pincode": "XR86L"
+  },
+  "shift": {
+    "type": "third",
+    "working_hours": {
+      "start": 16,
+      "end": 23
+    }
+  },
+  "bank_account": {
+    "sort_code": "566509",
+    "account_number": "18680953"
+  },
+  "componensation": {
+    "type": "fixed",
+    "occurance": "monthly",
+    "amount": 1000,
+    "currency": "GBP"
+  },
+  "experience": [
+    {
+      "company_name": "Noobs- A Taxi Company",
+      "start_date": {
+        "$date": "2021-11-30T02:44:13.618Z"
+      },
+      "end_date": null,
+      "role": "Mid Level",
+      "blackmarks": null,
+      "ratings": 3
+    },
+    {
+      "company_name": "Klocko and Sons",
+      "start_date": {
+        "$date": "2020-06-19T09:02:12.857Z"
+      },
+      "end_date": {
+        "$date": "2020-03-08T09:05:43.896Z"
+      },
+      "role": "Mid Level",
+      "blackmarks": null,
+      "ratings": 4
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639be3bcd975a32a888bd2a7"
+  },
+  "full_name": "Gaston Carter",
+  "gender": "Others",
+  "date_of_birth": {
+    "$date": "1986-04-10T17:04:56.156Z"
+  },
+  "email": "GastonCarter_OReilly15@example.org",
+  "phone_number": "+44 710381795",
+  "operator_code": "SB1RR",
+  "ni_number": "KPGVVTGFL",
+  "address": {
+    "street": "30092,Murray Groves",
+    "city": "London",
+    "pincode": "2NGGR"
+  },
+  "shift": {
+    "type": "first",
+    "working_hours": {
+      "start": 0,
+      "end": 7
+    }
+  },
+  "bank_account": {
+    "sort_code": "527851",
+    "account_number": "63309921"
+  },
+  "componensation": {
+    "type": "fixed",
+    "occurance": "monthly",
+    "amount": 1000,
+    "currency": "GBP"
+  },
+  "experience": [
+    {
+      "company_name": "Noobs- A Taxi Company",
+      "start_date": {
+        "$date": "2021-08-24T22:30:42.890Z"
+      },
+      "end_date": null,
+      "role": "Expert Level",
+      "blackmarks": null,
+      "ratings": 5
+    },
+    {
+      "company_name": "Bode, Jacobi and Gusikowski",
+      "start_date": {
+        "$date": "2021-06-05T14:37:51.963Z"
+      },
+      "end_date": {
+        "$date": "2020-11-27T03:51:31.177Z"
+      },
+      "role": "Mid Level",
+      "blackmarks": null,
+      "ratings": 4
+    }
+  ],
+  "__v": 0
+}]
